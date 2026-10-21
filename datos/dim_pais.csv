@@ -1,0 +1,221 @@
+iso3,pais,clase_bm,nivel_ingreso,inb_pc_usd,monarquia,otan,commonwealth,liga_arabe,opep,g7,brics
+AFG,Afganistán,LIC,bajo,,0,0,0,0,0,0,0
+ALB,Albania,UMC,medio,12060.0,0,1,0,0,0,0,0
+DEU,Alemania,HIC,alto,60200.0,0,1,0,0,0,1,0
+AND,Andorra,HIC,alto,,1,0,0,0,0,0,0
+AGO,Angola,LMC,bajo,2860.0,0,0,0,0,0,0,0
+ATG,Antigua y Barbuda,HIC,alto,23790.0,0,0,1,0,0,0,0
+SAU,Arabia Saudita,HIC,alto,36070.0,1,0,0,1,1,0,0
+DZA,Argelia,UMC,medio,,0,0,0,1,1,0,0
+ARG,Argentina,UMC,medio,14650.0,0,0,0,0,0,0,0
+ARM,Armenia,UMC,medio,9020.0,0,0,0,0,0,0,0
+ABW,Aruba,HIC,alto,,0,0,0,0,0,0,0
+AUS,Australia,HIC,alto,64120.0,0,0,1,0,0,0,0
+AUT,Austria,HIC,alto,60360.0,0,0,0,0,0,0,0
+AZE,Azerbaiyán,UMC,medio,7360.0,0,0,0,0,0,0,0
+BHS,Bahamas,HIC,alto,,0,0,1,0,0,0,0
+BGD,Bangladés,LMC,bajo,,0,0,1,0,0,0,0
+BRB,Barbados,HIC,alto,,0,0,1,0,0,0,0
+BHR,Baréin,HIC,alto,,1,0,0,1,0,0,0
+BLZ,Belice,UMC,medio,,0,0,1,0,0,0,0
+BEN,Benín,LMC,bajo,1600.0,0,0,0,0,0,0,0
+BMU,Bermudas,HIC,alto,,0,0,0,0,0,0,0
+BLR,Bielorrusia,UMC,medio,,0,0,0,0,0,0,0
+MMR,Birmania,LMC,bajo,,0,0,0,0,0,0,0
+BOL,Bolivia,LMC,bajo,4420.0,0,0,0,0,0,0,0
+BIH,Bosnia y Herzegovina,UMC,medio,,0,0,0,0,0,0,0
+BWA,Botsuana,UMC,medio,7390.0,0,0,1,0,0,0,0
+BRA,Brasil,UMC,medio,10550.0,0,0,0,0,0,0,1
+BRN,Brunéi,HIC,alto,,1,0,1,0,0,0,0
+BGR,Bulgaria,HIC,alto,17780.0,0,1,0,0,0,0,0
+BFA,Burkina Faso,LIC,bajo,980.0,0,0,0,0,0,0,0
+BDI,Burundi,LIC,bajo,,0,0,0,0,0,0,0
+BTN,Bután,LMC,bajo,,1,0,0,0,0,0,0
+BEL,Bélgica,HIC,alto,59500.0,1,1,0,0,0,0,0
+CPV,Cabo Verde,UMC,medio,,0,0,0,0,0,0,0
+KHM,Camboya,LMC,bajo,,1,0,0,0,0,0,0
+CMR,Camerún,LMC,bajo,1860.0,0,0,1,0,0,0,0
+CAN,Canadá,HIC,alto,56420.0,0,1,1,0,0,1,0
+TCD,Chad,LIC,bajo,970.0,0,0,0,0,0,0,0
+CZE,Chequia,HIC,alto,32960.0,0,1,0,0,0,0,0
+CHL,Chile,HIC,alto,16960.0,0,0,0,0,0,0,0
+CHN,China,UMC,medio,14230.0,0,0,0,0,0,0,1
+CYP,Chipre,HIC,alto,36110.0,0,0,1,0,0,0,0
+COL,Colombia,UMC,medio,7900.0,0,0,0,0,0,0,0
+COM,Comoras,LMC,bajo,,0,0,0,1,0,0,0
+PRK,Corea del Norte,LIC,bajo,,0,0,0,0,0,0,0
+KOR,Corea del Sur,HIC,alto,37880.0,0,0,0,0,0,0,0
+CRI,Costa Rica,HIC,alto,17930.0,0,0,0,0,0,0,0
+CIV,Costa de Marfil,LMC,bajo,2780.0,0,0,0,0,0,0,0
+HRV,Croacia,HIC,alto,,0,1,0,0,0,0,0
+CUB,Cuba,UMC,medio,,0,0,0,0,0,0,0
+CUW,Curazao,HIC,alto,,0,0,0,0,0,0,0
+DNK,Dinamarca,HIC,alto,77190.0,1,1,0,0,0,0,0
+DMA,Dominica,UMC,medio,,0,0,1,0,0,0,0
+USA,EE.UU.,HIC,alto,88810.0,0,1,0,0,0,1,0
+ECU,Ecuador,UMC,medio,6890.0,0,0,0,0,0,0,0
+EGY,Egipto,LMC,bajo,3260.0,0,0,0,1,0,0,1
+SLV,El Salvador,UMC,medio,,0,0,0,0,0,0,0
+ARE,Emiratos Árabes Unidos,HIC,alto,,1,0,0,1,1,0,1
+ERI,Eritrea,LIC,bajo,,0,0,0,0,0,0,0
+SVK,Eslovaquia,HIC,alto,,0,1,0,0,0,0,0
+SVN,Eslovenia,HIC,alto,35520.0,0,1,0,0,0,0,0
+ESP,España,HIC,alto,37120.0,1,1,0,0,0,0,0
+EST,Estonia,HIC,alto,32310.0,0,1,0,0,0,0,0
+SWZ,Esuatini,LMC,bajo,3730.0,1,0,1,0,0,0,0
+ETH,Etiopía,LIC,bajo,1110.0,0,0,0,0,0,0,1
+PHL,Filipinas,UMC,medio,4850.0,0,0,0,0,0,0,0
+FIN,Finlandia,HIC,alto,55250.0,0,1,0,0,0,0,0
+FJI,Fiyi,UMC,medio,,0,0,1,0,0,0,0
+FRA,Francia,HIC,alto,48630.0,0,1,0,0,0,1,0
+GAB,Gabón,UMC,medio,8090.0,0,0,1,0,1,0,0
+GMB,Gambia,LIC,bajo,,0,0,1,0,0,0,0
+GEO,Georgia,UMC,medio,8990.0,0,0,0,0,0,0,0
+GHA,Ghana,LMC,bajo,2630.0,0,0,1,0,0,0,0
+GIB,Gibraltar,HIC,alto,,0,0,0,0,0,0,0
+GRD,Granada,UMC,medio,,0,0,1,0,0,0,0
+GRC,Grecia,HIC,alto,25360.0,0,1,0,0,0,0,0
+GRL,Groenlandia,HIC,alto,,0,0,0,0,0,0,0
+GUM,Guam,HIC,alto,,0,0,0,0,0,0,0
+GTM,Guatemala,UMC,medio,6360.0,0,0,0,0,0,0,0
+GUF,Guayana Francesa,HIC,alto,,0,0,0,0,0,0,0
+GIN,Guinea,LMC,bajo,,0,0,0,0,0,0,0
+GNQ,Guinea Ecuatorial,UMC,medio,5890.0,0,0,0,0,1,0,0
+GNB,Guinea-Bisáu,LIC,bajo,1090.0,0,0,0,0,0,0,0
+GUY,Guyana,HIC,alto,28470.0,0,0,1,0,0,0,0
+HTI,Haití,LMC,bajo,2010.0,0,0,0,0,0,0,0
+HND,Honduras,LMC,bajo,,0,0,0,0,0,0,0
+HKG,Hong Kong,HIC,alto,,0,0,0,0,0,0,0
+HUN,Hungría,HIC,alto,23850.0,0,1,0,0,0,0,0
+IND,India,LMC,bajo,2760.0,0,0,1,0,0,0,1
+IDN,Indonesia,UMC,medio,5120.0,0,0,0,0,0,0,1
+IRQ,Irak,UMC,medio,5690.0,0,0,0,1,1,0,0
+IRL,Irlanda,HIC,alto,,0,0,0,0,0,0,0
+IRN,Irán,UMC,medio,4650.0,0,0,0,0,1,0,1
+IMN,Isla de Man,HIC,alto,,0,0,0,0,0,0,0
+ISL,Islandia,HIC,alto,89220.0,0,1,0,0,0,0,0
+CYM,Islas Caimán,HIC,alto,,0,0,0,0,0,0,0
+FRO,Islas Feroe,HIC,alto,,0,0,0,0,0,0,0
+MNP,Islas Marianas del Norte,HIC,alto,,0,0,0,0,0,0,0
+MHL,Islas Marshall,UMC,medio,,0,0,0,0,0,0,0
+SLB,Islas Salomón,LMC,bajo,2020.0,0,0,1,0,0,0,0
+TCA,Islas Turcas y Caicos,HIC,alto,,0,0,0,0,0,0,0
+VGB,Islas Vírgenes Británicas,HIC,alto,,0,0,0,0,0,0,0
+VIR,Islas Vírgenes de EE.UU.,HIC,alto,,0,0,0,0,0,0,0
+CHI,Islas del Canal,HIC,alto,,0,0,0,0,0,0,0
+ISR,Israel,HIC,alto,56180.0,0,0,0,0,0,0,0
+ITA,Italia,HIC,alto,42080.0,0,1,0,0,0,1,0
+JAM,Jamaica,UMC,medio,7790.0,0,0,1,0,0,0,0
+JPN,Japón,HIC,alto,38340.0,1,0,0,0,0,1,0
+JOR,Jordania,UMC,medio,,1,0,0,1,0,0,0
+KAZ,Kazajistán,UMC,medio,13740.0,0,0,0,0,0,0,0
+KEN,Kenia,LMC,bajo,2200.0,0,0,1,0,0,0,0
+KGZ,Kirguistán,LMC,bajo,2800.0,0,0,0,0,0,0,0
+KIR,Kiribati,LMC,bajo,,0,0,1,0,0,0,0
+XKX,Kosovo,UMC,medio,7760.0,0,0,0,0,0,0,0
+KWT,Kuwait,HIC,alto,,1,0,0,1,1,0,0
+LAO,Laos,LMC,bajo,,0,0,0,0,0,0,0
+LSO,Lesoto,LMC,bajo,1280.0,1,0,1,0,0,0,0
+LVA,Letonia,HIC,alto,24980.0,0,1,0,0,0,0,0
+LBR,Liberia,LIC,bajo,830.0,0,0,0,0,0,0,0
+LBY,Libia,UMC,medio,7250.0,0,0,0,1,1,0,0
+LIE,Liechtenstein,HIC,alto,,1,0,0,0,0,0,0
+LTU,Lituania,HIC,alto,,0,1,0,0,0,0,0
+LUX,Luxemburgo,HIC,alto,95720.0,1,1,0,0,0,0,0
+LBN,Líbano,LMC,bajo,,0,0,0,1,0,0,0
+MAC,Macao,HIC,alto,,0,0,0,0,0,0,0
+MKD,Macedonia del Norte,UMC,medio,9490.0,0,1,0,0,0,0,0
+MDG,Madagascar,LIC,bajo,560.0,0,0,0,0,0,0,0
+MYS,Malasia,UMC,medio,12380.0,1,0,1,0,0,0,0
+MWI,Malaui,LIC,bajo,600.0,0,0,1,0,0,0,0
+MDV,Maldivas,UMC,medio,,0,0,1,0,0,0,0
+MLT,Malta,HIC,alto,41440.0,0,0,1,0,0,0,0
+MLI,Malí,LIC,bajo,,0,0,0,0,0,0,0
+MAR,Marruecos,LMC,bajo,4360.0,1,0,0,1,0,0,0
+MTQ,Martinica,HIC,alto,,0,0,0,0,0,0,0
+MUS,Mauricio,UMC,medio,14040.0,0,0,1,0,0,0,0
+MRT,Mauritania,LMC,bajo,,0,0,0,1,0,0,0
+FSM,Micronesia,UMC,medio,,0,0,0,0,0,0,0
+MDA,Moldavia,UMC,medio,8050.0,0,0,0,0,0,0,0
+MNG,Mongolia,UMC,medio,6210.0,0,0,0,0,0,0,0
+MNE,Montenegro,UMC,medio,,0,1,0,0,0,0,0
+MOZ,Mozambique,LIC,bajo,570.0,0,0,1,0,0,0,0
+MEX,México,UMC,medio,13730.0,0,0,0,0,0,0,0
+MCO,Mónaco,HIC,alto,,1,0,0,0,0,0,0
+NAM,Namibia,LMC,bajo,4340.0,0,0,1,0,0,0,0
+NRU,Nauru,HIC,alto,,0,0,1,0,0,0,0
+NPL,Nepal,LMC,bajo,1570.0,0,0,0,0,0,0,0
+NIC,Nicaragua,LMC,bajo,,0,0,0,0,0,0,0
+NGA,Nigeria,LMC,bajo,1360.0,0,0,1,0,1,0,0
+NOR,Noruega,HIC,alto,97310.0,1,1,0,0,0,0,0
+NCL,Nueva Caledonia,HIC,alto,,0,0,0,0,0,0,0
+NZL,Nueva Zelanda,HIC,alto,46630.0,0,0,1,0,0,0,0
+NER,Níger,LIC,bajo,750.0,0,0,0,0,0,0,0
+OMN,Omán,HIC,alto,,1,0,0,1,0,0,0
+PAK,Pakistán,LMC,bajo,1500.0,0,0,1,0,0,0,0
+PLW,Palaos,HIC,alto,,0,0,0,0,0,0,0
+PSE,Palestina,LMC,bajo,3250.0,0,0,0,1,0,0,0
+PAN,Panamá,HIC,alto,19140.0,0,0,0,0,0,0,0
+PNG,Papúa Nueva Guinea,LMC,bajo,2890.0,0,0,1,0,0,0,0
+PRY,Paraguay,UMC,medio,6750.0,0,0,0,0,0,0,0
+NLD,Países Bajos,HIC,alto,68530.0,1,1,0,0,0,0,0
+PER,Perú,UMC,medio,8430.0,0,0,0,0,0,0,0
+PYF,Polinesia Francesa,HIC,alto,,0,0,0,0,0,0,0
+POL,Polonia,HIC,alto,25520.0,0,1,0,0,0,0,0
+PRT,Portugal,HIC,alto,29930.0,0,1,0,0,0,0,0
+PRI,Puerto Rico,HIC,alto,27320.0,0,0,0,0,0,0,0
+QAT,Qatar,HIC,alto,74330.0,1,0,0,1,0,0,0
+COD,RD del Congo,LIC,bajo,720.0,0,0,0,0,0,0,0
+GBR,Reino Unido,HIC,alto,54550.0,1,1,1,0,0,1,0
+CAF,Rep. Centroafricana,LIC,bajo,560.0,0,0,0,0,0,0,0
+DOM,Rep. Dominicana,UMC,medio,10620.0,0,0,0,0,0,0,0
+COG,Rep. del Congo,LMC,bajo,,0,0,0,0,1,0,0
+RWA,Ruanda,LIC,bajo,,0,0,1,0,0,0,0
+ROU,Rumania,HIC,alto,,0,1,0,0,0,0,0
+RUS,Rusia,HIC,alto,15960.0,0,0,0,0,0,0,1
+WSM,Samoa,UMC,medio,,0,0,1,0,0,0,0
+ASM,Samoa Americana,HIC,alto,,0,0,0,0,0,0,0
+KNA,San Cristóbal y Nieves,HIC,alto,,0,0,1,0,0,0,0
+SMR,San Marino,HIC,alto,,0,0,0,0,0,0,0
+MAF,San Martín (Francia),HIC,alto,,0,0,0,0,0,0,0
+VCT,San Vicente y las Granadinas,UMC,medio,,0,0,1,0,0,0,0
+LCA,Santa Lucía,UMC,medio,,0,0,1,0,0,0,0
+STP,Santo Tomé y Príncipe,LMC,bajo,,0,0,0,0,0,0,0
+SEN,Senegal,LMC,bajo,1780.0,0,0,0,0,0,0,0
+SRB,Serbia,UMC,medio,13480.0,0,0,0,0,0,0,0
+SYC,Seychelles,HIC,alto,,0,0,1,0,0,0,0
+SLE,Sierra Leona,LIC,bajo,,0,0,1,0,0,0,0
+SGP,Singapur,HIC,alto,81760.0,0,0,1,0,0,0,0
+SXM,Sint Maarten,HIC,alto,,0,0,0,0,0,0,0
+SYR,Siria,LIC,bajo,,0,0,0,1,0,0,0
+SOM,Somalia,LIC,bajo,640.0,0,0,0,1,0,0,0
+LKA,Sri Lanka,UMC,medio,4670.0,0,0,1,0,0,0,0
+ZAF,Sudáfrica,UMC,medio,6270.0,0,0,1,0,0,0,1
+SDN,Sudán,LIC,bajo,900.0,0,0,0,1,0,0,0
+SSD,Sudán del Sur,LIC,bajo,,0,0,0,0,0,0,0
+SWE,Suecia,HIC,alto,63010.0,1,1,0,0,0,0,0
+CHE,Suiza,HIC,alto,110330.0,0,0,0,0,0,0,0
+SUR,Surinam,UMC,medio,,0,0,0,0,0,0,0
+THA,Tailandia,UMC,medio,7690.0,1,0,0,0,0,0,0
+TWN,Taiwán,HIC,alto,,0,0,0,0,0,0,0
+TZA,Tanzania,LMC,bajo,1270.0,0,0,1,0,0,0,0
+TJK,Tayikistán,LMC,bajo,,0,0,0,0,0,0,0
+TLS,Timor Oriental,LMC,bajo,,0,0,0,0,0,0,0
+TGO,Togo,LMC,bajo,,0,0,1,0,0,0,0
+TON,Tonga,UMC,medio,6840.0,1,0,1,0,0,0,0
+TTO,Trinidad y Tobago,HIC,alto,18550.0,0,0,1,0,0,0,0
+TKM,Turkmenistán,UMC,medio,,0,0,0,0,0,0,0
+TUR,Turquía,UMC,medio,16300.0,0,1,0,0,0,0,0
+TUV,Tuvalu,UMC,medio,,0,0,1,0,0,0,0
+TUN,Túnez,LMC,bajo,4300.0,0,0,0,1,0,0,0
+UKR,Ucrania,UMC,medio,5510.0,0,0,0,0,0,0,0
+UGA,Uganda,LIC,bajo,1120.0,0,0,0,0,0,0,0
+URY,Uruguay,HIC,alto,24020.0,0,0,0,0,0,0,0
+UZB,Uzbekistán,LMC,bajo,3670.0,0,0,0,0,0,0,0
+VUT,Vanuatu,LMC,bajo,,0,0,1,0,0,0,0
+VEN,Venezuela,LMC,bajo,3860.0,0,0,0,0,1,0,0
+VNM,Vietnam,UMC,medio,4970.0,0,0,0,0,0,0,0
+YEM,Yemen,LIC,bajo,,0,0,0,1,0,0,0
+DJI,Yibuti,LMC,bajo,,0,0,0,1,0,0,0
+ZMB,Zambia,LMC,bajo,,0,0,1,0,0,0,0
+ZWE,Zimbabue,LMC,bajo,2660.0,0,0,0,0,0,0,0
