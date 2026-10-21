@@ -1,0 +1,1215 @@
+nombre,pais,ultima_erupcion,lat,lon,elev_m,tipo
+West Eifel Volcanic Field,Germany,8300 BCE,50.1700,6.8500,600,Volcanic field
+Chaine des Puys,France,4040 BCE,45.7860,2.9810,1464,Lava dome(s)
+Olot Volcanic Field,Spain,Unknown,42.1700,2.5300,893,Volcanic field
+Calatrava Volcanic Field,Spain,3600 BCE,38.8700,-4.0200,1117,Volcanic field
+Colli Albani,Italy,Unknown,41.7569,12.7251,949,Caldera
+Campi Flegrei,Italy,1538 CE,40.8270,14.1390,458,Caldera
+Vesuvius,Italy,1944 CE,40.8210,14.4260,1281,Stratovolcano
+Ischia,Italy,1302 CE,40.7300,13.8970,789,Complex
+Palinuro,Italy,8040 BCE,39.4800,14.8300,-70,Compound
+Stromboli,Italy,2026 CE,38.7890,15.2130,924,Stratovolcano
+Panarea,Italy,Unknown,38.6380,15.0640,399,Stratovolcano
+Lipari,Italy,1230 CE,38.4900,14.9330,590,Stratovolcano(es)
+Vulcano,Italy,1890 CE,38.4040,14.9620,500,Stratovolcano(es)
+Etna,Italy,2026 CE,37.7480,14.9990,3357,Stratovolcano(es)
+Campi Flegrei del Mar di Sicilia,Italy,1867 CE,37.1000,12.7000,-8,Volcanic field
+Pantelleria,Italy,1891 CE,36.7700,12.0200,836,Shield
+Marsili,Italy,1050 BCE,39.2840,14.3990,-779,Complex
+Methana,Greece,258 BCE,37.6186,23.3331,380,Lava dome(s)
+Milos,Greece,140 CE,36.6990,24.4390,751,Stratovolcano(es)
+Santorini,Greece,1950 CE,36.4040,25.3960,367,Shield(s)
+Kolumbo,Greece,1650 CE,36.5240,25.4830,-18,Complex
+Nisyros,Greece,1888 CE,36.5888,27.1553,698,Stratovolcano
+Kula,Turkiye,Unknown,38.5800,28.5200,750,Volcanic field
+Hasandag-Keciboyduran Volcanic Complex,Turkiye,Unknown,38.1300,34.1700,3253,Stratovolcano
+Erciyes Volcanic Complex,Turkiye,6880 BCE,38.5310,35.4470,3864,Stratovolcano
+Karaca Dag,Turkiye,Unknown,37.6700,39.8300,1957,Shield
+Nemrut Dagi,Turkiye,1650 CE,38.6540,42.2290,2948,Stratovolcano
+Tenduruk Dagi,Turkiye,1855 CE,39.3560,43.8740,3514,Shield
+Ararat,Turkiye,1840 CE,39.7000,44.3000,5165,Stratovolcano
+Elbrus,Russia,50 CE,43.3510,42.4420,5642,Stratovolcano
+Kazbek,Georgia,750 BCE,42.6970,44.5184,5004,Stratovolcano
+Samsari Volcanic Center,Georgia,Unknown,41.5420,43.7000,3290,Volcanic field
+Aragats,Armenia,Unknown,40.5300,44.2000,4095,Stratovolcano
+Ghegham Volcanic Ridge,Armenia,1900 BCE,40.2830,45.0000,3597,Volcanic field
+Vaiyots-Sar,Armenia,2000 BCE,39.7970,45.4970,2575,Pyroclastic cone(s)
+Porak,Armenia-Azerbaijan,778 BCE,40.0280,45.7400,3029,Volcanic field
+Tskhouk-Karckar,Armenia-Azerbaijan,3000 BCE,39.7420,45.9920,3139,Pyroclastic cone(s)
+"Tair, Jebel at",Yemen,2008 CE,15.5500,41.8300,244,Stratovolcano
+Zubair Group,Yemen,2013 CE,15.0500,42.1800,191,Shield
+Zukur,Yemen,Unknown,14.0200,42.7500,624,Shield
+Hanish,Yemen,Unknown,13.7200,42.7300,422,Shield
+Alid,Eritrea,Unknown,14.8800,39.9200,904,Stratovolcano
+Dallol,Ethiopia,2011 CE,14.2420,40.3000,-48,Explosion crater(s)
+Gada Ale,Ethiopia,Unknown,13.9750,40.4080,287,Stratovolcano
+Alu-Dalafilla,Ethiopia,2008 CE,13.7930,40.5530,578,Fissure vent(s)
+Bora Ale,Ethiopia,Unknown,13.7250,40.6000,668,Stratovolcano
+Erta Ale,Ethiopia,2025 CE,13.6010,40.6660,585,Shield
+Ale Bagu,Ethiopia,Unknown,13.5120,40.6310,988,Stratovolcano
+Hayli Gubbi,Ethiopia,2025 CE,13.5111,40.7161,493,Shield
+Dubbi,Eritrea,1861 CE,13.5790,41.8090,1625,Stratovolcano
+Nabro,Eritrea,2012 CE,13.3700,41.7000,2218,Stratovolcano
+Mallahle,Ethiopia-Eritrea,Unknown,13.2700,41.6500,1875,Stratovolcano
+Sork Ale,Ethiopia-Eritrea,Unknown,13.1800,41.7250,1611,Stratovolcano
+Asavyo,Ethiopia,Unknown,13.0980,41.5990,1338,Shield
+Mat Ala,Ethiopia,Unknown,13.1060,41.1610,493,Shield
+Tat Ali,Ethiopia,Unknown,13.2840,41.0630,655,Shield
+Borawli,Ethiopia,Unknown,13.3040,40.9870,784,Stratovolcano
+Afdera,Ethiopia,Unknown,13.0880,40.8530,1250,Stratovolcano
+Ma Alalta,Ethiopia,Unknown,13.0130,40.1850,1745,Stratovolcano
+Alayta,Ethiopia,1915 CE,12.8880,40.5730,1496,Shield
+Dabbahu,Ethiopia,2005 CE,12.5950,40.4800,1401,Stratovolcano
+Dabbayra,Ethiopia,Unknown,12.3800,40.0700,1302,Shield
+Manda Hararo,Ethiopia,2009 CE,12.1700,40.8200,600,Shield(s)
+Groppo,Ethiopia,Unknown,11.8160,40.2420,852,Volcanic field
+Kurub,Ethiopia,Unknown,11.8800,41.2080,625,Shield
+Manda-Inakir,Ethiopia-Djibouti,1928 CE,12.3800,42.2000,600,Fissure vent(s)
+Mousa Alli,Ethiopia-Eritrea-Djibouti,Unknown,12.4690,42.4040,1993,Stratovolcano
+Gufa,Eritrea-Djibouti,Unknown,12.5500,42.5300,600,Volcanic field
+Assab Volcanic Field,Eritrea,Unknown,12.9500,42.4300,987,Volcanic field
+Ardoukoba,Djibouti,1978 CE,11.5800,42.4700,298,Fissure vent(s)
+Manda Gargori,Ethiopia,Unknown,11.7500,41.4800,700,Fissure vent(s)
+Dama Ali,Ethiopia,1631 CE,11.2800,41.6300,1068,Shield
+Gabillema,Ethiopia,Unknown,11.0800,41.2700,1459,Stratovolcano
+Yangudi,Ethiopia,Unknown,10.5800,41.0420,1383,Complex
+Ayelu,Ethiopia,Unknown,10.0820,40.7020,2145,Stratovolcano
+Adwa,Ethiopia,Unknown,10.0630,40.8310,1670,Stratovolcano
+Hertali,Ethiopia,Unknown,9.7800,40.3300,900,Fissure vent
+Liado Hayk,Ethiopia,Unknown,9.5700,40.2800,878,Volcanic field
+Dofen,Ethiopia,Unknown,9.3500,40.1300,1151,Shield
+Fentale,Ethiopia,1789 CE,8.9850,39.9060,2007,Stratovolcano
+Beru,Ethiopia,Unknown,8.9500,39.7500,1100,Volcanic field
+Kone,Ethiopia,1820 CE,8.8105,39.6946,1380,Caldera(s)
+Boset,Ethiopia,Unknown,8.5580,39.4750,2447,Stratovolcano(es)
+Bishoftu Volcanic Field,Ethiopia,Unknown,8.7800,38.9800,1850,Volcanic field
+Melkassa,Ethiopia,Unknown,8.4300,39.3500,1765,Volcanic field
+Gedemsa,Ethiopia,Unknown,8.3630,39.1720,1909,Caldera
+Bora-Bericha-Tullu Moye,Ethiopia,1900 CE,8.2114,39.0812,2345,Pyroclastic cone
+East Ziway,Ethiopia,Unknown,7.8740,38.9020,1889,Fissure vent(s)
+Butajiri-Silti Field,Ethiopia,Unknown,8.0500,38.3500,2281,Volcanic field
+Aluto,Ethiopia,1550 CE,7.7700,38.7800,2335,Stratovolcano
+Shala,Ethiopia,Unknown,7.4569,38.5571,2075,Caldera
+Corbetti,Ethiopia,396 BCE,7.1930,38.3900,2289,Caldera
+Bilate River Field,Ethiopia,Unknown,7.0700,38.1000,1700,Volcanic field
+Northern Lake Abaya Volcanic Field,Ethiopia,Unknown,6.7600,37.9700,1594,Volcanic field
+Korath Range,Ethiopia,Unknown,5.1170,35.8920,912,Tuff cone(s)
+Mega Volcanic Field,Ethiopia,Unknown,3.9710,38.2130,1500,Volcanic field
+Lake Turkana North Island,Kenya,Unknown,4.0631,36.0458,490,Tuff cone(s)
+Lake Turkana Central Island,Kenya,Unknown,3.4960,36.0365,518,Tuff cone(s)
+Lake Turkana South Island,Kenya,1888 CE,2.6364,36.5958,800,Stratovolcano
+Marsabit,Kenya,Unknown,2.3200,37.9700,1707,Shield
+"Barrier, The",Kenya,1921 CE,2.3200,36.5700,1032,Shield
+Namarunu,Kenya,6550 BCE,1.9800,36.4300,817,Shield
+Segererua Plateau,Kenya,Unknown,1.5700,37.9000,699,Pyroclastic cone(s)
+Emuruangogolak,Kenya,1910 CE,1.5000,36.3300,1285,Shield
+Silali,Kenya,5050 BCE,1.1500,36.2300,1528,Shield
+Paka,Kenya,7550 BCE,0.9200,36.1800,1697,Shield
+Korosi,Kenya,Unknown,0.7700,36.1200,1446,Shield
+Ol Kokwe,Kenya,Unknown,0.6200,36.0750,1130,Shield
+Nyambeni Hills,Kenya,Unknown,0.2300,37.8700,750,Shield
+Menengai,Kenya,6050 BCE,-0.2000,36.0700,2278,Shield
+Homa Mountain,Kenya,Unknown,-0.3800,34.5000,1751,Complex
+Elmenteita Badlands,Kenya,Unknown,-0.5460,36.2490,2126,Pyroclastic cone(s)
+"Eburru, Ol Doinyo",Kenya,Unknown,-0.6500,36.2200,2856,Complex
+Olkaria,Kenya,1770 CE,-0.9040,36.2920,2434,Pyroclastic cone(s)
+Longonot,Kenya,1863 CE,-0.9140,36.4460,2776,Stratovolcano
+Suswa,Kenya,Unknown,-1.1510,36.3570,2356,Shield
+"Lengai, Ol Doinyo",Tanzania,2026 CE,-2.7640,35.9140,2962,Stratovolcano
+Chyulu Hills,Kenya,1855 CE,-2.6800,37.8800,2188,Volcanic field
+Meru,Tanzania,1910 CE,-3.2440,36.7500,4550,Stratovolcano
+Ngozi,Tanzania,1450 CE,-9.0036,33.5520,2614,Caldera
+Rungwe,Tanzania,1250 CE,-9.1350,33.6680,2953,Stratovolcano
+Kyejo,Tanzania,1800 CE,-9.2290,33.7920,2176,Stratovolcano
+Fort Portal Volcanic Field,Uganda,2120 BCE,0.7000,30.2500,1615,Volcanic field
+Ndali-Kasenda Volcanic Field,Uganda,Unknown,0.4583,30.2750,1300,Volcanic field
+Nyamulagira,DR Congo,2026 CE,-1.4080,29.2000,3058,Shield
+Nyiragongo,DR Congo,2026 CE,-1.5200,29.2500,3470,Stratovolcano
+Karisimbi,DR Congo-Rwanda,8050 BCE,-1.5060,29.4500,4490,Stratovolcano
+Mugogo,DR Congo,1957 CE,-1.3687,29.4800,2338,Cone
+"Basile, Pico",Equatorial Guinea,1923 CE,3.5880,8.7620,2999,Shield
+Cameroon,Cameroon,2000 CE,4.2030,9.1700,4095,Stratovolcano
+Tombel Graben,Cameroon,Unknown,4.7580,9.7170,500,Volcanic field
+Oku Volcanic Field,Cameroon,Unknown,6.2500,10.5000,3011,Volcanic field
+Todra Volcanic Field,Niger,Unknown,17.6800,8.5000,1780,Volcanic field
+Tahalra Volcanic Field,Algeria,Unknown,22.6700,5.0000,1467,Volcanic field
+Atakor Volcanic Field,Algeria,Unknown,23.3300,5.8300,2918,Volcanic field
+Manzaz Volcanic Field,Algeria,Unknown,23.9200,5.8300,1672,Volcanic field
+"Toh, Tarso",Chad,Unknown,21.3300,16.3300,2000,Volcanic field
+"Tousside, Tarso",Chad,Unknown,21.0408,16.4730,3299,Stratovolcano
+"Voon, Tarso",Chad,Unknown,20.9200,17.2800,3100,Stratovolcano
+"Koussi, Emi",Chad,Unknown,19.8000,18.5300,3415,Shield(pyroclastic)
+"Marra, Jebel",Sudan,2000 BCE,12.9500,24.2700,3042,Volcanic field
+Kutum Volcanic Field,Sudan,Unknown,14.5700,25.8500,1779,Volcanic field
+Meidob Volcanic Field,Sudan,2950 BCE,15.3200,26.4700,2000,Volcanic field
+Bayuda Volcanic Field,Sudan,850 CE,18.3300,32.7500,670,Volcanic field
+"Ash Shaam, Harrat",Syria-Jordan-Saudi Arabia,2670 BCE,32.3330,37.5830,1100,Volcanic field
+"Lunayyir, Harrat",Saudi Arabia,1000 CE,25.1700,37.7500,1370,Volcanic field
+"Ithnayn, Harrat",Saudi Arabia,Unknown,26.5800,40.2000,1625,Volcanic field
+"Khaybar, Harrat",Saudi Arabia,650 CE,25.5000,40.0000,2093,Volcanic field
+"Rahat, Harrat",Saudi Arabia,1256 CE,23.0800,39.7800,1744,Volcanic field
+"Kishb, Harrat",Saudi Arabia,Unknown,22.8000,41.3800,1475,Volcanic field
+"Birk, Harrat al",Saudi Arabia,Unknown,18.3700,41.6300,587,Volcanic field
+"Yar, Jabal",Saudi Arabia,1810 CE,17.0500,42.8300,305,Volcanic field
+"Arhab, Harra of",Yemen,500 CE,15.6025,44.0978,3100,Volcanic field
+"Haylan, Jabal",Yemen,1200 BCE,15.4000,45.1000,1550,Volcanic field
+"Dhamar, Harras of",Yemen,Unknown,14.5700,44.6700,3500,Volcanic field
+"Sawad, Harra Es-",Yemen,1253 CE,13.5800,46.1200,1737,Volcanic field
+Balhaf-Bir Ali Volcanic Field,Yemen,Unknown,14.0670,48.3000,604,Volcanic field
+Bir Borhut,Yemen,Unknown,15.5150,50.9350,464,Volcanic field
+Damavand,Iran,5350 BCE,35.9510,52.1090,5670,Stratovolcano
+"Grille, La",Union of the Comoros,Unknown,-11.4861,43.3500,1064,Shield
+Mayotte,France,2050 BCE,-12.8300,45.1700,660,Shield
+Karthala,Union of the Comoros,2007 CE,-11.7658,43.3639,2350,Shield
+"Fournaise, Piton de la",France,2026 CE,-21.2440,55.7080,2632,Shield
+Fani Maore,France,2019 CE,-12.9121,45.7075,-2500,Cone
+Boomerang Seamount,France,1995 CE,-37.7216,77.8221,-650,Caldera
+Amsterdam Island,France,Unknown,-37.8300,77.5200,881,Stratovolcano
+St. Paul,France,1793 CE,-38.7200,77.5300,268,Stratovolcano
+Heard,Australia,2026 CE,-53.1060,73.5130,2745,Stratovolcano
+McDonald Islands,Australia,2005 CE,-53.0394,72.5950,263,Complex
+Kerguelen Islands,France,Unknown,-49.5800,69.5000,1840,Stratovolcano(es)
+"Est, Ile de l'",France,Unknown,-46.4300,52.2000,1090,Stratovolcano
+"Possession, Ile de la",France,Unknown,-46.4200,51.7500,934,Stratovolcano
+"Cochons, Ile aux",France,Unknown,-46.1000,50.2300,775,Stratovolcano
+Prince Edward Island,South Africa,Unknown,-46.6300,37.9500,672,Shield
+Marion Island,South Africa,2004 CE,-46.9000,37.7500,1230,Shield(s)
+Auckland Volcanic Field,New Zealand,1446 CE,-36.8900,174.8100,260,Volcanic field
+Tuhua/Mayor Island,New Zealand,5055 BCE,-37.2800,176.2500,355,Shield
+Taranaki,New Zealand,1800 CE,-39.3000,174.0700,2518,Stratovolcano
+Whakaari/White Island,New Zealand,2026 CE,-37.5200,177.1800,294,Stratovolcano(es)
+Okataina,New Zealand,1981 CE,-38.1569,176.5069,1111,Lava dome(s)
+Taupo,New Zealand,260 CE,-38.7811,175.8930,760,Caldera
+Tongariro,New Zealand,2012 CE,-39.1570,175.6320,1978,Stratovolcano(es)
+Ruapehu,New Zealand,2007 CE,-39.2800,175.5700,2797,Stratovolcano
+Clark,New Zealand,Unknown,-36.4460,177.8390,-860,Stratovolcano
+Tangaroa,New Zealand,Unknown,-36.3210,178.0280,-600,Stratovolcano
+Rumble V,New Zealand,Unknown,-36.1420,178.1960,-400,Stratovolcano
+Rumble IV,New Zealand,Unknown,-36.1300,178.0500,-500,Stratovolcano
+Rumble III,New Zealand,2008 CE,-35.7450,178.4780,-220,Stratovolcano
+Rumble II West,New Zealand,Unknown,-35.3530,178.5270,-1200,Stratovolcano
+Healy,New Zealand,1360 CE,-35.0040,178.9730,-980,Stratovolcano
+Brothers,New Zealand,Unknown,-34.8750,179.0667,-1350,Caldera
+Wright,New Zealand,Unknown,-31.8500,-179.1800,-900,Stratovolcano(es)
+Havre Seamount,New Zealand,2012 CE,-31.0800,-179.0330,-897,Stratovolcano
+Curtis Island,New Zealand,Unknown,-30.5430,-178.5560,47,Stratovolcano
+Macauley,New Zealand,4360 BCE,-30.2100,-178.4750,238,Caldera
+Giggenbach,New Zealand,Unknown,-30.0360,-178.7120,-65,Stratovolcano
+Raoul Island,New Zealand,2006 CE,-29.2700,-177.9200,516,Stratovolcano
+Monowai,New Zealand,2014 CE,-25.8870,-177.1880,-132,Stratovolcano
+Kermadec Arc at 24.8°S,Tonga,Unknown,-24.8000,-177.0200,-385,Stratovolcano
+Tofua Arc at 21.3°S,Tonga,1932 CE,-21.3380,-175.6500,-68,Stratovolcano
+Tofua Arc at 21.1°S,Tonga,Unknown,-21.1500,-175.7500,-65,Stratovolcano
+Tofua Arc at 20.9°S,Tonga,2017 CE,-20.8520,-175.5500,-296,Stratovolcano
+Hunga Tonga-Hunga Ha'apai,Tonga,2022 CE,-20.5532,-175.3841,114,Caldera
+Fonuafo'ou,Tonga,1936 CE,-20.3200,-175.4200,-17,Stratovolcano
+Tofua,Tonga,2026 CE,-19.7500,-175.0700,515,Caldera
+Kao,Tonga,1847 CE,-19.6680,-175.0160,1009,Stratovolcano
+Lateiki,Tonga,2019 CE,-19.1800,-174.8700,43,Stratovolcano
+Home Reef,Tonga,2026 CE,-18.9920,-174.7750,-10,Stratovolcano
+Late,Tonga,1854 CE,-18.8060,-174.6500,540,Stratovolcano
+Tofua Arc at 18.3°S,Tonga,2019 CE,-18.3250,-174.3650,-40,Stratovolcano
+Fonualei,Tonga,1957 CE,-18.0230,-174.3170,188,Stratovolcano
+Tafahi,Tonga,Unknown,-15.8540,-173.7470,546,Stratovolcano
+Curacoa,Tonga,1979 CE,-15.6200,-173.6700,-33,Complex
+Niuafo'ou,Tonga,1946 CE,-15.6000,-175.6300,260,Shield
+Dugong,Tonga,Unknown,-15.4310,-175.7250,-1170,Shield
+Lobster,Tonga,Unknown,-15.3330,-176.2830,-1500,Shield
+Tafu-Maka,Tonga,2008 CE,-15.3700,-174.2300,-1400,Fissure vent
+West Mata,Tonga,2009 CE,-15.1000,-173.7500,-1174,Fissure vent(s)
+Niuatahi,Tonga,Unknown,-15.3675,-174.0028,-1270,Caldera
+Vailuluu,United States,2003 CE,-14.2150,-169.0580,-592,Shield
+Tau,United States,Unknown,-14.2300,-169.4540,931,Shield
+Ofu-Olosega,United States,1866 CE,-14.1750,-169.6180,639,Shield(s)
+Tutuila,United States,440 CE,-14.2903,-170.7019,653,Tuff cone(s)
+Malumalu,United States,Unknown,-14.6010,-169.7870,-145,Stratovolcano
+Upolu,Samoa,Unknown,-13.9350,-171.7200,1100,Shield
+Savaii,Samoa,1911 CE,-13.6120,-172.5250,1858,Shield
+Taveuni,Fiji,1550 CE,-16.8412,-179.9644,1241,Shield
+Nabukelevu,Fiji,1660 CE,-19.1181,177.9815,791,Lava dome(s)
+St. Andrew Strait,Papua New Guinea,1957 CE,-2.3800,147.3500,270,Complex
+Titan Ridge,Papua New Guinea,1972 CE,-3.0300,147.7800,-1300,Fissure vent
+Blup Blup,Papua New Guinea,Unknown,-3.5070,144.6050,402,Stratovolcano
+Kadovar,Papua New Guinea,2023 CE,-3.6080,144.5880,365,Stratovolcano
+Bam,Papua New Guinea,1960 CE,-3.6130,144.8180,685,Stratovolcano
+Manam,Papua New Guinea,2026 CE,-4.0800,145.0370,1807,Stratovolcano
+Karkar,Papua New Guinea,1979 CE,-4.6470,145.9760,1839,Stratovolcano
+Hankow Reef,Papua New Guinea,Unknown,-4.8830,146.7170,-5,Stratovolcano
+Long Island,Papua New Guinea,1993 CE,-5.3144,147.1050,1263,Complex
+Umboi,Papua New Guinea,Unknown,-5.5920,147.8920,1335,Complex
+Ritter Island,Papua New Guinea,2007 CE,-5.5190,148.1150,75,Stratovolcano
+Sakar,Papua New Guinea,Unknown,-5.4098,148.0836,947,Stratovolcano
+Langila,Papua New Guinea,2026 CE,-5.5250,148.4200,1330,Complex
+Dakataua,Papua New Guinea,1895 CE,-5.0455,150.0996,408,Caldera
+Bola,Papua New Guinea,Unknown,-5.1410,150.0380,1116,Stratovolcano
+Garua Harbour,Papua New Guinea,Unknown,-5.3000,150.0700,565,Volcanic field
+Krummel-Garbuna-Welcker,Papua New Guinea,2008 CE,-5.4160,150.0270,564,Stratovolcano(es)
+Lolo,Papua New Guinea,Unknown,-5.4660,150.5090,796,Stratovolcano
+Witori,Papua New Guinea,2012 CE,-5.5745,150.5161,724,Caldera
+Sulu Range,Papua New Guinea,Unknown,-5.5000,150.9420,610,Stratovolcano(es)
+Hargy,Papua New Guinea,950 CE,-5.3300,151.1000,1148,Stratovolcano
+Bamus,Papua New Guinea,1886 CE,-5.2000,151.2300,2248,Stratovolcano
+Ulawun,Papua New Guinea,2025 CE,-5.0500,151.3300,2334,Stratovolcano
+Lolobau,Papua New Guinea,1912 CE,-4.9156,151.1617,878,Caldera
+Rabaul,Papua New Guinea,2014 CE,-4.2459,152.1937,688,Caldera
+Tavui,Papua New Guinea,4946 BCE,-4.1089,152.2134,200,Caldera
+Lamington,Papua New Guinea,1956 CE,-8.9500,148.1500,1680,Stratovolcano
+Hydrographers Range,Papua New Guinea,Unknown,-9.0000,148.3700,1915,Stratovolcano
+Managlase Plateau,Papua New Guinea,Unknown,-9.0800,148.3300,1342,Volcanic field
+Victory,Papua New Guinea,1935 CE,-9.2003,149.0720,1832,Stratovolcano
+Sessagara Hills,Papua New Guinea,1944 CE,-9.5542,149.1278,493,Volcanic field
+Goodenough,Papua New Guinea,Unknown,-9.3580,150.2460,220,Volcanic field
+Iamalele,Papua New Guinea,Unknown,-9.5056,150.5239,194,Lava dome(s)
+Dawson Strait Group,Papua New Guinea,1350 CE,-9.6200,150.8800,500,Volcanic field
+Balbi,Papua New Guinea,Unknown,-5.9156,155.0008,2715,Stratovolcano
+Billy Mitchell,Papua New Guinea,1580 CE,-6.0898,155.2254,1544,Caldera
+Bagana,Papua New Guinea,2026 CE,-6.1370,155.1960,1855,Lava cone
+Takuan Group,Papua New Guinea,Unknown,-6.4420,155.6080,2210,Compound
+Loloru,Papua New Guinea,1050 BCE,-6.5200,155.6200,1887,Compound
+Simbo,Solomon Islands,1910 CE,-8.2920,156.5200,335,Stratovolcano(es)
+Kana Keoki,Solomon Islands,Unknown,-8.7500,157.0300,-700,Stratovolcano
+Coleman Seamount,Solomon Islands,Unknown,-8.8410,157.1600,-717,Stratovolcano
+Kavachi,Solomon Islands,2014 CE,-8.9910,157.9790,-20,Stratovolcano
+New Georgia at 8.9°S,Solomon Islands,Unknown,-8.9200,158.0300,-240,Stratovolcano
+Savo,Solomon Islands,1847 CE,-9.1324,159.8119,455,Stratovolcano
+Tinakula,Solomon Islands,2024 CE,-10.3860,165.8040,796,Stratovolcano
+Motlav,Vanuatu,Unknown,-13.6700,167.6700,411,Stratovolcano
+Suretamatai,Vanuatu,1966 CE,-13.8000,167.4700,921,Complex
+Gaua,Vanuatu,2022 CE,-14.2810,167.5140,729,Stratovolcano
+Ambae,Vanuatu,2026 CE,-15.3890,167.8350,1496,Shield
+Ambrym,Vanuatu,2024 CE,-16.2500,168.1200,1334,Shield(pyroclastic)
+Lopevi,Vanuatu,2007 CE,-16.5070,168.3460,1413,Stratovolcano
+East Epi,Vanuatu,2023 CE,-16.6797,168.3893,833,Stratovolcano(es)
+Kuwae,Vanuatu,1974 CE,-16.8304,168.5227,-2,Caldera
+Nguna-Emau,Vanuatu,Unknown,-17.4522,168.3530,589,Stratovolcano(es)
+Traitor's Head,Vanuatu,1881 CE,-18.7540,169.2380,817,Stratovolcano
+Yasur,Vanuatu,2026 CE,-19.5320,169.4470,361,Stratovolcano
+Gemini-Oscostar,Vanuatu,1996 CE,-20.9570,170.1300,-33,Stratovolcano
+Matthew Island,France - claimed by Vanuatu,1956 CE,-22.3300,171.3200,177,Stratovolcano
+Hunter Island,France - claimed by Vanuatu,1903 CE,-22.4000,172.0500,297,Stratovolcano
+Newer Volcanics Province,Australia,2900 BCE,-37.7700,142.5000,1011,Volcanic field
+McBride Volcanic Province,Australia,5050 BCE,-18.3670,144.5670,1020,Volcanic field
+Barren Island,India,2026 CE,12.2780,93.8580,354,Stratovolcano
+Peuet Sague,Indonesia,2000 CE,4.9030,96.2890,2785,Complex
+"Telong, Bur ni",Indonesia,1937 CE,4.7690,96.8210,2617,Stratovolcano
+Singkut,Indonesia,1881 CE,3.2379,98.5127,2181,Caldera(s)
+Sinabung,Indonesia,2021 CE,3.1700,98.3920,2460,Stratovolcano
+Sorikmarapi,Indonesia,1986 CE,0.6834,99.5409,2145,Stratovolcano
+Malintang,Indonesia,Unknown,0.4756,99.6628,1988,Stratovolcano
+Talakmau,Indonesia,Unknown,0.0787,99.9840,2911,Complex
+Marapi,Indonesia,2026 CE,-0.3800,100.4740,2885,Complex
+Tandikat-Singgalang,Indonesia,1924 CE,-0.4311,100.3192,2879,Stratovolcano(es)
+Talang,Indonesia,2007 CE,-0.9790,100.6810,2575,Stratovolcano
+Kerinci,Indonesia,2024 CE,-1.6970,101.2640,3800,Stratovolcano
+Sumbing,Indonesia,1921 CE,-2.4140,101.7280,2507,Stratovolcano
+Kaba,Indonesia,2000 CE,-3.5156,102.6261,1962,Stratovolcano
+Dempo,Indonesia,2025 CE,-4.0160,103.1210,3142,Stratovolcano(es)
+Patah,Indonesia,Unknown,-4.2570,103.3060,2836,Stratovolcano?
+Ranau,Indonesia,Unknown,-4.8710,103.9250,1854,Caldera
+Suoh,Indonesia,2024 CE,-5.2500,104.2700,1000,Caldera(s)
+Krakatau,Indonesia,2024 CE,-6.1009,105.4233,285,Caldera
+Pulosari,Indonesia,Unknown,-6.3430,105.9780,1324,Stratovolcano
+Karang,Indonesia,Unknown,-6.2680,106.0500,1768,Stratovolcano
+Perbakti-Gagak,Indonesia,1939 CE,-6.7500,106.6750,1726,Stratovolcano(es)
+Salak,Indonesia,1938 CE,-6.7160,106.7330,2218,Stratovolcano
+Gede-Pangrango,Indonesia,1957 CE,-6.7860,106.9830,3026,Stratovolcano(es)
+Patuha,Indonesia,Unknown,-7.1620,107.4000,2422,Stratovolcano
+Tangkuban Parahu,Indonesia,2019 CE,-6.7700,107.6000,2084,Stratovolcano
+Papandayan,Indonesia,2002 CE,-7.3175,107.7306,2643,Stratovolcano(es)
+Guntur,Indonesia,1847 CE,-7.1430,107.8410,2251,Complex
+Tampomas,Indonesia,Unknown,-6.7639,107.9612,1690,Stratovolcano
+Galunggung,Indonesia,1984 CE,-7.2500,108.0580,2168,Stratovolcano
+Talagabodas,Indonesia,Unknown,-7.2080,108.0700,2201,Stratovolcano
+Ciremai,Indonesia,1951 CE,-6.8950,108.4080,3039,Stratovolcano
+Slamet,Indonesia,2014 CE,-7.2420,109.2080,3428,Stratovolcano
+Dieng Volcanic Complex,Indonesia,2025 CE,-7.2000,109.8790,2565,Complex
+Sundoro,Indonesia,1971 CE,-7.3014,109.9970,3149,Stratovolcano
+Sumbing,Indonesia,1730 CE,-7.3819,110.0747,3370,Stratovolcano
+Merbabu,Indonesia,1797 CE,-7.4540,110.4400,3118,Stratovolcano
+Merapi,Indonesia,2026 CE,-7.5400,110.4460,2910,Stratovolcano
+Lawu,Indonesia,Unknown,-7.6250,111.1920,3265,Stratovolcano
+Kelud,Indonesia,2014 CE,-7.9350,112.3140,1730,Stratovolcano
+Kawi-Butak,Indonesia,Unknown,-7.9200,112.4500,2651,Stratovolcano(es)
+Arjuno-Welirang,Indonesia,1952 CE,-7.7330,112.5750,3343,Stratovolcano
+Penanggungan,Indonesia,Unknown,-7.6160,112.6200,1631,Stratovolcano
+Semeru,Indonesia,2026 CE,-8.1080,112.9220,3657,Stratovolcano
+Tengger Caldera,Indonesia,2023 CE,-7.9420,112.9500,2329,Stratovolcano(es)
+Lamongan,Indonesia,1898 CE,-7.9810,113.3410,1641,Stratovolcano
+Iyang-Argapura,Indonesia,Unknown,-7.9700,113.5700,3088,Complex
+Raung,Indonesia,2025 CE,-8.1190,114.0560,3260,Stratovolcano
+Ijen,Indonesia,1999 CE,-8.0580,114.2420,2769,Stratovolcano(es)
+Baluran,Indonesia,Unknown,-7.8500,114.3700,1247,Stratovolcano
+Buyan-Bratan,Indonesia,Unknown,-8.2830,115.1330,2244,Caldera
+Batur,Indonesia,2000 CE,-8.2403,115.3775,1711,Caldera
+Agung,Indonesia,2022 CE,-8.3430,115.5080,2997,Stratovolcano
+Rinjani,Indonesia,2016 CE,-8.4200,116.4700,3726,Stratovolcano
+Tambora,Indonesia,1967 CE,-8.2500,118.0000,2850,Stratovolcano
+Sangeang Api,Indonesia,2022 CE,-8.2000,119.0700,1912,Complex
+"Sano, Wai",Indonesia,Unknown,-8.7345,120.0074,1319,Caldera
+Ranakah,Indonesia,1991 CE,-8.6370,120.5302,2288,Lava dome(s)
+Inierie,Indonesia,8050 BCE,-8.8750,120.9500,2245,Stratovolcano
+Inielika,Indonesia,2001 CE,-8.7300,120.9800,1559,Complex
+Ebulobo,Indonesia,1969 CE,-8.8170,121.1910,2096,Stratovolcano
+Iya,Indonesia,1969 CE,-8.8910,121.6410,618,Stratovolcano
+Kelimutu,Indonesia,1968 CE,-8.7700,121.8200,1639,Complex
+Paluweh,Indonesia,2013 CE,-8.3200,121.7080,875,Stratovolcano
+Egon,Indonesia,2008 CE,-8.6760,122.4550,1661,Stratovolcano
+Lewotobi,Indonesia,2026 CE,-8.5420,122.7750,1703,Stratovolcano(es)
+Iliboleng,Indonesia,1993 CE,-8.3420,123.2580,1659,Stratovolcano
+Lewotolok,Indonesia,2026 CE,-8.2740,123.5080,1431,Stratovolcano
+Ililabalekan,Indonesia,Unknown,-8.5500,123.3800,1018,Stratovolcano
+Iliwerung,Indonesia,2021 CE,-8.5320,123.5730,583,Complex
+"Tara, Batu",Indonesia,2015 CE,-7.7910,123.5850,633,Stratovolcano
+Sirung,Indonesia,2021 CE,-8.4972,124.1306,1347,Complex
+Wurlali,Indonesia,1892 CE,-7.1250,128.6750,868,Stratovolcano
+Teon,Indonesia,1904 CE,-6.9760,129.1440,728,Stratovolcano
+Nila,Indonesia,1968 CE,-6.7300,129.5000,781,Stratovolcano
+Serua,Indonesia,1921 CE,-6.3120,130.0170,608,Stratovolcano
+Manuk,Indonesia,Unknown,-5.5430,130.3030,257,Stratovolcano
+Banda Api,Indonesia,1988 CE,-4.5230,129.8810,596,Caldera
+Colo,Indonesia,1983 CE,-0.1620,121.6010,404,Stratovolcano
+Ambang,Indonesia,2005 CE,0.7500,124.4200,1795,Complex
+Soputan,Indonesia,2020 CE,1.1120,124.7370,1785,Stratovolcano
+Lokon-Empung,Indonesia,2015 CE,1.3644,124.7992,1580,Stratovolcano(es)
+Mahawu,Indonesia,1977 CE,1.3520,124.8650,1299,Stratovolcano
+Klabat,Indonesia,Unknown,1.4540,125.0310,1968,Stratovolcano
+Tangkoko-Duasudara,Indonesia,1880 CE,1.5180,125.1850,1334,Stratovolcano
+Ruang,Indonesia,2024 CE,2.3058,125.3671,703,Stratovolcano
+Karangetang,Indonesia,2023 CE,2.7810,125.4070,1797,Stratovolcano
+Banua Wuhu,Indonesia,1919 CE,3.1463,125.4422,-5,Complex
+Awu,Indonesia,2004 CE,3.6890,125.4470,1318,Stratovolcano
+Tarakan,Indonesia,Unknown,1.8320,127.8250,317,Pyroclastic cone(s)
+Dukono,Indonesia,2026 CE,1.6992,127.8783,1273,Complex
+Tobaru,Indonesia,Unknown,1.6300,127.6700,1035,Stratovolcano
+Ibu,Indonesia,2026 CE,1.4941,127.6324,1357,Stratovolcano
+Gamkonora,Indonesia,2007 CE,1.3800,127.5300,1635,Stratovolcano
+Todoko-Ranu,Indonesia,Unknown,1.2389,127.4556,979,Caldera(s)
+Jailolo,Indonesia,Unknown,1.0800,127.4390,993,Stratovolcano
+Hiri,Indonesia,Unknown,0.8971,127.3170,687,Stratovolcano
+Gamalama,Indonesia,2018 CE,0.8100,127.3322,1714,Stratovolcano(es)
+Kie Matubu,Indonesia,1210 CE,0.6623,127.4029,1713,Stratovolcano
+Mare,Indonesia,Unknown,0.5700,127.4000,308,Stratovolcano
+Moti,Indonesia,Unknown,0.4540,127.4110,927,Stratovolcano
+Kie Besi,Indonesia,1988 CE,0.3200,127.4000,1357,Stratovolcano
+Melebingoy,Philippines,1641 CE,6.1130,124.8920,1824,Stratovolcano
+Matutum,Philippines,1290 CE,6.3604,125.0765,2262,Stratovolcano
+Leonard Range,Philippines,80 CE,7.3820,126.0470,1080,Stratovolcano
+Makaturing,Philippines,1882 CE,7.6440,124.3170,1818,Stratovolcano
+Ragang,Philippines,1916 CE,7.6910,124.5070,2790,Stratovolcano
+Musuan,Philippines,Unknown,7.8765,125.0697,610,Lava dome
+Camiguin,Philippines,1953 CE,9.2030,124.6730,1552,Stratovolcano(es)
+Kanlaon,Philippines,2026 CE,10.4096,123.1300,2422,Stratovolcano
+Cabalían,Philippines,1820 CE,10.2850,125.2180,912,Stratovolcano
+Biliran,Philippines,1939 CE,11.5230,124.5350,1301,Compound
+Bulusan,Philippines,2025 CE,12.7690,124.0560,1535,Stratovolcano(es)
+Mayon,Philippines,2026 CE,13.2570,123.6850,2462,Stratovolcano
+Iriga,Philippines,Unknown,13.4580,123.4510,1138,Stratovolcano
+Isarog,Philippines,3500 BCE,13.6580,123.3800,1966,Stratovolcano
+Banahaw,Philippines,Unknown,14.0700,121.4800,2158,Complex
+San Pablo Volcanic Field,Philippines,1350 CE,14.1200,121.3000,1090,Volcanic field
+Taal,Philippines,2026 CE,14.0106,120.9975,311,Caldera
+Pinatubo,Philippines,2021 CE,15.1300,120.3500,1486,Stratovolcano
+Cagua,Philippines,1860 CE,18.2220,122.1230,1133,Stratovolcano
+Camiguin de Babuyanes,Philippines,1857 CE,18.8300,121.8600,712,Stratovolcano
+Didicas,Philippines,1978 CE,19.0770,122.2020,228,Compound
+Babuyan Claro,Philippines,1924 CE,19.5240,121.9500,1064,Stratovolcano(es)
+Iraya,Philippines,1454 CE,20.4690,122.0100,1009,Stratovolcano
+Hainan Volcanic Field,China,1933 CE,19.9050,110.2290,196,Volcanic field
+Ly Son Group,Vietnam,Unknown,15.3800,109.1200,157,Volcanic field
+"Cendres, Ile des",Vietnam,1923 CE,10.1580,109.0140,-20,Volcanic field
+Popa,Burma (Myanmar),6050 BCE,20.9200,95.2500,1518,Stratovolcano
+Tengchong,China,5750 BCE,25.2300,98.5000,2865,Volcanic field
+Kueishantao,Taiwan,1853 CE,24.8410,121.9530,361,Stratovolcano
+Tatun Volcanic Group,Taiwan,648 CE,25.1780,121.5530,1120,Lava dome(s)
+Submarine Volcano NNE of Iriomotejima,Japan,1924 CE,24.5700,123.9300,-200,Stratovolcano
+Io-Torishima,Japan,1968 CE,27.8810,128.2230,212,Complex
+Yokoatejima,Japan,1835 CE,28.7994,128.9958,495,Stratovolcano(es)
+Akusekijima,Japan,Unknown,29.4650,129.5940,555,Stratovolcano(es)
+Suwanosejima,Japan,2026 CE,29.6380,129.7140,796,Stratovolcano(es)
+Nakanoshima,Japan,1914 CE,29.8590,129.8570,979,Stratovolcano(es)
+Kuchinoshima,Japan,1190 CE,29.9680,129.9260,628,Stratovolcano(es)
+Kuchinoerabujima,Japan,2020 CE,30.4430,130.2170,657,Stratovolcano(es)
+Kikai,Japan,2025 CE,30.7930,130.3050,704,Caldera
+Ata,Japan,885 CE,31.1800,130.5283,924,Caldera(s)
+Aira,Japan,2026 CE,31.5772,130.6589,1117,Caldera
+Yonemaru-Sumiyoshiike,Japan,6200 BCE,31.7710,130.5920,40,Maar(s)
+Kirishimayama,Japan,2025 CE,31.9340,130.8620,1700,Shield
+Fukue,Japan,400 BCE,32.6570,128.8490,315,Volcanic field
+Unzendake,Japan,1996 CE,32.7610,130.2990,1483,Complex
+Asosan,Japan,2021 CE,32.8849,131.0850,1592,Caldera
+Kujusan,Japan,1996 CE,33.0860,131.2490,1791,Stratovolcano(es)
+Yufu-Tsurumi,Japan,867 CE,33.2820,131.3900,,Lava dome(s)
+Abu,Japan,6850 BCE,34.4833,131.5167,641,Volcanic field
+Sanbesan,Japan,650 CE,35.1410,132.6220,1126,Stratovolcano
+Izu-Tobu,Japan,1989 CE,34.9030,139.0950,580,Pyroclastic cone(s)
+Hakoneyama,Japan,2015 CE,35.2330,139.0210,1438,Complex
+Fujisan,Japan,1708 CE,35.3610,138.7280,3776,Stratovolcano
+Yokodake,Japan,1200 CE,36.0875,138.3200,2480,Stratovolcano(es)
+Ontakesan,Japan,2014 CE,35.8931,137.4806,3067,Complex
+Hakusan,Japan,1659 CE,36.1550,136.7710,2702,Stratovolcano
+Norikuradake,Japan,50 BCE,36.1060,137.5540,3026,Stratovolcano(es)
+Akandanayama,Japan,Unknown,36.2000,137.5730,2109,Stratovolcano
+Yakedake,Japan,1995 CE,36.2270,137.5870,2455,Stratovolcano(es)
+Midagahara,Japan,1839 CE,36.5710,137.5900,2621,Stratovolcano
+Niigata-Yakeyama,Japan,1998 CE,36.9210,138.0360,2400,Lava dome
+Myokosan,Japan,750 BCE,36.8910,138.1140,2454,Stratovolcano
+Asamayama,Japan,2019 CE,36.4060,138.5230,2568,Complex
+Kusatsu-Shiranesan,Japan,2018 CE,36.6180,138.5280,2165,Stratovolcano(es)
+Shiga,Japan,Unknown,36.6880,138.5190,2041,Shield(s)
+Harunasan,Japan,550 CE,36.4775,138.8508,1449,Stratovolcano
+Akagisan,Japan,Unknown,36.5600,139.1930,1828,Stratovolcano
+Hiuchigatake,Japan,1544 CE,36.9550,139.2850,2356,Stratovolcano
+Nikko-Shiranesan,Japan,1952 CE,36.7990,139.3760,2578,Shield
+Nantaisan,Japan,9540 BCE,36.7650,139.4906,2486,Stratovolcano
+Omanago Group,Japan,3050 BCE,36.8067,139.4756,2341,Lava dome(s)
+Takaharayama,Japan,4570 BCE,36.9000,139.7770,1795,Stratovolcano
+Nasudake,Japan,1963 CE,37.1247,139.9631,1915,Stratovolcano(es)
+Numazawa,Japan,3400 BCE,37.4440,139.5660,835,Shield
+Bandaisan,Japan,1888 CE,37.6010,140.0720,1816,Stratovolcano
+Adatarayama,Japan,1996 CE,37.6470,140.2810,1728,Stratovolcano(es)
+Azumayama,Japan,1977 CE,37.7350,140.2440,1949,Stratovolcano(es)
+Zaozan [Zaosan],Japan,1940 CE,38.1439,140.4397,1841,Complex
+Hijiori,Japan,Unknown,38.5992,140.1617,552,Caldera
+Naruko,Japan,837 CE,38.7290,140.7340,470,Caldera
+Kurikomayama,Japan,1950 CE,38.9610,140.7880,,Stratovolcano
+Chokaisan,Japan,1974 CE,39.0994,140.0489,2236,Stratovolcano(es)
+Akita-Komagatake,Japan,1971 CE,39.7610,140.7990,1637,Stratovolcano(es)
+Iwatesan,Japan,1919 CE,39.8530,141.0010,2038,Complex
+Hachimantai,Japan,5350 BCE,39.9580,140.8540,1613,Stratovolcano
+Akita-Yakeyama,Japan,1997 CE,39.9640,140.7570,1366,Stratovolcano
+Megata,Japan,2050 BCE,39.9500,139.7250,160,Maar(s)
+Iwakisan,Japan,1863 CE,40.6560,140.3030,1624,Stratovolcano
+Towada,Japan,915 CE,40.5100,140.8800,1011,Caldera
+Hakkodasan,Japan,1550 CE,40.6590,140.8770,1584,Stratovolcano(es)
+Osorezan,Japan,1787 CE,41.2790,141.1200,878,Stratovolcano
+Izu-Oshima,Japan,1990 CE,34.7240,139.3940,758,Stratovolcano
+Toshima,Japan,4550 BCE,34.5200,139.2790,508,Stratovolcano
+Niijima,Japan,886 CE,34.3970,139.2700,432,Lava dome(s)
+Kozushima,Japan,838 CE,34.2190,139.1530,572,Lava dome(s)
+Miyakejima,Japan,2010 CE,34.0940,139.5260,775,Stratovolcano
+Mikurajima,Japan,4100 BCE,33.8740,139.6020,851,Stratovolcano
+Kurose Hole,Japan,Unknown,33.4000,139.6800,-114,Caldera
+Hachijojima,Japan,1606 CE,33.1370,139.7660,854,Stratovolcano(es)
+Aogashima,Japan,1785 CE,32.4580,139.7590,423,Stratovolcano
+Kita-Bayonnaise,Japan,Unknown,32.1000,139.8500,-360,Caldera
+Myojinsho,Japan,1970 CE,31.8880,139.9180,11,Caldera
+Sumisujima,Japan,1916 CE,31.4400,140.0510,136,Caldera
+Izu-Torishima,Japan,2002 CE,30.4840,140.3030,394,Stratovolcano
+Sofugan,Japan,Unknown,29.7940,140.3420,99,Stratovolcano
+Suiyo Seamount,Japan,Unknown,28.5750,140.6330,-991,Stratovolcano
+Mokuyo Seamount,Japan,Unknown,28.3270,140.5720,-933,Stratovolcano
+Doyo Seamount,Japan,Unknown,27.6800,140.8000,-590,Stratovolcano
+Nishinoshima,Japan,2023 CE,27.2439,140.8797,160,Caldera
+Kaikata Seamount,Japan,Unknown,26.6670,140.9290,-165,Stratovolcano
+Kaitoku Seamount,Japan,2023 CE,26.1267,141.1017,-95,Stratovolcano
+Funka Asane,Japan,2022 CE,25.4550,141.2386,-20,Stratovolcano
+Ioto,Japan,2025 CE,24.7503,141.2892,172,Caldera
+Kita-Fukutokutai,Japan,1954 CE,24.4170,141.4170,-73,Stratovolcano
+Fukutoku-Oka-no-Ba,Japan,2021 CE,24.2850,141.4810,-29,Pyroclastic cone
+Minami-Hiyoshi,Japan,1975 CE,23.5000,141.9350,-107,Stratovolcano
+Nikko,Japan,Unknown,23.0780,142.3260,-392,Stratovolcano
+Fukujin,United States,1974 CE,21.9300,143.4700,-217,Stratovolcano
+Kasuga 1,United States,1959 CE,21.7650,143.7100,-598,Stratovolcano
+Kasuga 2,United States,Unknown,21.6000,143.6370,-274,Stratovolcano
+NW Eifuku,United States,Unknown,21.4850,144.0430,-1535,Stratovolcano
+Daikoku,United States,Unknown,21.3240,144.1940,-323,Stratovolcano
+Farallon de Pajaros,United States,1953 CE,20.5460,144.8930,337,Stratovolcano
+Ahyi,United States,2026 CE,20.4370,145.0300,-55,Stratovolcano
+Supply Reef,United States,Unknown,20.1300,145.1000,-8,Stratovolcano
+Maug Islands,United States,Unknown,20.0200,145.2200,227,Stratovolcano
+Asuncion,United States,1906 CE,19.6710,145.4060,857,Stratovolcano
+Agrigan,United States,1917 CE,18.7700,145.6700,965,Stratovolcano
+Pagan,United States,2021 CE,18.1300,145.8000,570,Stratovolcano(es)
+Alamagan,United States,870 CE,17.6000,145.8300,744,Stratovolcano
+Guguan,United States,1883 CE,17.3137,145.8400,232,Stratovolcano
+Zealandia Bank,United States,Unknown,16.8800,145.8500,0,Stratovolcano
+Sarigan,United States,Unknown,16.6991,145.7803,494,Stratovolcano
+South Sarigan Seamount,United States,2010 CE,16.5800,145.7800,-184,Stratovolcano
+Anatahan,United States,2008 CE,16.3500,145.6700,790,Stratovolcano
+East Diamante,United States,Unknown,15.9300,145.6700,-127,Stratovolcano
+Ruby,United States,2023 CE,15.6050,145.5720,-174,Stratovolcano
+Esmeralda Bank,United States,Unknown,14.9580,145.2490,-74,Stratovolcano
+NW Rota-1,United States,2010 CE,14.6010,144.7750,-455,Stratovolcano
+Forecast Seamount,United States,Unknown,13.4000,143.9200,-1456,Stratovolcano
+Seamount X,United States,Unknown,13.2500,144.0200,-1230,Stratovolcano
+Mariana Back-Arc Segment at 15.5°N,United States,2015 CE,15.4060,144.5060,-4100,Fissure vent
+Oshima-Oshima,Japan,1790 CE,41.5100,139.3670,732,Stratovolcano
+Esan,Japan,1874 CE,41.8050,141.1660,617,Lava dome(s)
+Hokkaido-Komagatake,Japan,2000 CE,42.0630,140.6770,1131,Stratovolcano
+Toya,Japan,2001 CE,42.5440,140.8390,733,Stratovolcano
+Niseko,Japan,4900 BCE,42.8750,140.6590,1308,Stratovolcano(es)
+Yoteizan,Japan,1050 BCE,42.8267,140.8114,1898,Stratovolcano
+Kuttara,Japan,1820 CE,42.4910,141.1600,549,Stratovolcano(es)
+Shikotsu,Japan,1981 CE,42.6880,141.3800,1320,Caldera
+Rishirizan,Japan,5830 BCE,45.1790,141.2420,1721,Stratovolcano
+Tokachidake,Japan,2004 CE,43.4180,142.6860,2077,Stratovolcano(es)
+Taisetsuzan,Japan,1739 CE,43.6640,142.8540,2291,Stratovolcano(es)
+Maruyama,Japan,1898 CE,43.4180,143.0310,1692,Stratovolcano(es)
+Akan,Japan,2026 CE,43.3864,144.0086,1499,Caldera
+Kussharo,Japan,1320 CE,43.6150,144.4270,574,Caldera
+Mashu,Japan,1080 CE,43.5720,144.5610,857,Caldera
+Rausudake,Japan,1800 CE,44.0760,145.1220,1660,Stratovolcano
+Tenchozan,Japan,Unknown,44.0440,145.0860,1046,Crater rows
+Shiretoko-Iozan,Japan,1936 CE,44.1330,145.1610,1562,Stratovolcano
+Tomariyama [Golovnin],Japan - administered by Russia,1848 CE,43.8440,145.5040,535,Caldera
+Raususan [Mendeleev],Japan - administered by Russia,1880 CE,43.9790,145.7330,882,Stratovolcano
+Ruruidake [Smirnov],Japan - administered by Russia,Unknown,44.4536,146.1400,1481,Stratovolcano
+Chachadake [Tiatia],Japan - administered by Russia,1981 CE,44.3536,146.2531,1772,Stratovolcano
+Berutarubesan [Berutarube],Japan - administered by Russia,Unknown,44.4620,146.9320,1221,Stratovolcano
+Etorofu-Atosanupuri [Atosanupuri],Japan - administered by Russia,1932 CE,44.8078,147.1306,1209,Stratovolcano
+Hitokappu Volcano Group [Bogatyr Ridge],Japan - administered by Russia,Unknown,44.8570,147.4030,1610,Stratovolcano
+Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,2013 CE,45.0114,147.8722,1147,Complex
+Odamoisan [Tebenkov],Japan - administered by Russia,Unknown,45.0286,147.9169,1208,Stratovolcano
+Sashiusudake [Baransky],Japan - administered by Russia,1951 CE,45.1036,148.0142,1128,Stratovolcano
+Moyorodake [Medvezhia],Japan - administered by Russia,1999 CE,45.3890,148.8380,1124,Stratovolcano
+Ivao Group,Russia,Unknown,45.7593,149.6762,1426,Pyroclastic cone(s)
+Kolokol Group,Russia,1973 CE,46.0420,150.0830,1328,Stratovolcano
+Kuril Arc at 46.3°N,Russia,Unknown,46.2944,150.8526,-100,
+Chirpoi,Russia,2016 CE,46.5320,150.8710,742,Caldera
+Milna,Russia,1914 CE,46.8150,151.7860,1504,Stratovolcano
+Zavaritzki Caldera,Russia,1957 CE,46.9178,151.9518,612,Caldera
+Prevo Peak,Russia,1825 CE,47.0139,152.1167,1360,Stratovolcano
+Uratman,Russia,Unknown,47.1200,152.2500,678,Stratovolcano
+Ketoi,Russia,1960 CE,47.3500,152.4750,1172,Stratovolcano
+Ushishur,Russia,1884 CE,47.5125,152.8139,357,Caldera
+Srednii,Russia,Unknown,47.5861,152.8930,36,Stratovolcano
+Rasshua,Russia,1957 CE,47.7700,153.0200,956,Stratovolcano
+Sarychev Peak,Russia,2021 CE,48.0920,153.2000,1496,Stratovolcano
+Raikoke,Russia,2019 CE,48.2920,153.2500,551,Stratovolcano
+Chirinkotan,Russia,2022 CE,48.9800,153.4800,724,Stratovolcano
+Ekarma,Russia,2010 CE,48.9580,153.9300,1170,Stratovolcano
+Sinarka,Russia,1878 CE,48.8730,154.1820,911,Stratovolcano
+Kharimkotan,Russia,1933 CE,49.1200,154.5080,1145,Stratovolcano
+Tao-Rusyr Caldera,Russia,1952 CE,49.3400,154.7250,1272,Stratovolcano
+Nemo Peak,Russia,1938 CE,49.5641,154.8126,994,Caldera
+Shirinki,Russia,Unknown,50.1973,154.9781,693,Stratovolcano
+Fuss Peak,Russia,1854 CE,50.2670,155.2460,1742,Stratovolcano
+Karpinsky Group,Russia,Unknown,50.1419,155.3847,1326,Complex
+Chikurachki,Russia,2023 CE,50.3240,155.4610,1781,Stratovolcano(es)
+Vernadsky Ridge,Russia,Unknown,50.5819,155.9867,1183,Pyroclastic cone(s)
+Ebeko,Russia,2024 CE,50.6860,156.0140,1103,Stratovolcano
+Alaid,Russia,2022 CE,50.8610,155.5650,2285,Stratovolcano
+Kambalny,Russia,2017 CE,51.3060,156.8750,2116,Stratovolcano
+Koshelev,Russia,1690 CE,51.3560,156.7530,1822,Stratovolcano
+Yavinsky,Russia,4050 BCE,51.5330,156.6290,646,Stratovolcano
+Diky Greben,Russia,350 CE,51.4520,156.9780,1040,Lava dome(s)
+Kurile Lake,Russia,6440 BCE,51.4500,157.1200,81,Caldera
+Iliinsky,Russia,1901 CE,51.4980,157.2030,1555,Stratovolcano
+Zheltovsky,Russia,1923 CE,51.5770,157.3280,1926,Stratovolcano
+Ksudach,Russia,1907 CE,51.8042,157.5292,1007,Stratovolcano
+Olkoviy-Ozernoy Volcanic Field,Russia,Unknown,52.0200,157.5300,681,Volcanic field
+Khodutka,Russia,300 BCE,52.0620,157.7110,2039,Stratovolcano(es)
+Asacha,Russia,Unknown,52.3550,157.8270,1910,Complex
+Visokiy,Russia,Unknown,52.4350,157.9332,1227,Stratovolcano
+Mutnovsky,Russia,2000 CE,52.4490,158.1960,2288,Complex
+Gorely,Russia,2010 CE,52.5549,158.0358,1799,Caldera
+Opala,Russia,1776 CE,52.5430,157.3390,2439,Caldera
+Tolmachev Dol,Russia,300 CE,52.6300,157.5800,1021,Pyroclastic cone(s)
+Vilyuchinsky,Russia,8050 BCE,52.7000,158.2800,2173,Stratovolcano
+Barkhatnaya Sopka,Russia,3550 BCE,52.8020,158.2400,874,Volcanic field
+Koryaksky,Russia,2009 CE,53.3210,158.7120,3430,Stratovolcano
+Avachinsky,Russia,2001 CE,53.2560,158.8360,2717,Stratovolcano
+Dzenzursky,Russia,Unknown,53.6370,158.9220,2285,Compound
+Zhupanovsky,Russia,2016 CE,53.5890,159.1500,2899,Compound
+Veer,Russia,390 CE,53.7525,158.4478,520,Pyroclastic cone(s)
+Kostakan,Russia,1350 CE,53.8330,158.0520,1150,Pyroclastic cone(s)
+Bakening,Russia,550 BCE,53.9050,158.0700,2278,Stratovolcano
+Zavaritsky,Russia,800 BCE,53.9065,158.3851,1547,Pyroclastic cone(s)
+Akademia Nauk,Russia,1996 CE,53.9800,159.4500,1180,Stratovolcano(es)
+Karymsky,Russia,2025 CE,54.0490,159.4430,1513,Stratovolcano
+Maly Semyachik,Russia,1952 CE,54.1350,159.6740,1527,Caldera
+Bolshoi Semiachik,Russia,4450 BCE,54.3200,160.0200,1720,Stratovolcano(es)
+Taunshits,Russia,550 BCE,54.5280,159.8040,2301,Stratovolcano
+Uzon,Russia,200 CE,54.4885,159.9741,1617,Caldera(s)
+Kikhpinych,Russia,1550 CE,54.4890,160.2510,1515,Stratovolcano(es)
+Krasheninnikov,Russia,2026 CE,54.5960,160.2700,1816,Caldera
+Kronotsky,Russia,3350 BCE,54.7530,160.5330,3482,Stratovolcano
+Gamchen,Russia,188 BCE,54.9740,160.7030,2539,Complex
+Komarov,Russia,950 CE,55.0330,160.7250,2065,Stratovolcano
+Vysoky,Russia,550 BCE,55.0640,160.7650,2129,Stratovolcano
+Kizimen,Russia,2013 CE,55.1310,160.3200,2334,Stratovolcano
+Tolbachik,Russia,2013 CE,55.8320,160.3260,3611,Shield
+Udina,Russia,Unknown,55.7580,160.5270,2886,Stratovolcano(es)
+Zimina,Russia,Unknown,55.8620,160.6030,3057,Stratovolcano(es)
+Bezymianny,Russia,2025 CE,55.9720,160.5950,2882,Stratovolcano
+Kamen,Russia,Unknown,56.0200,160.5930,4585,Stratovolcano
+Klyuchevskoy,Russia,2025 CE,56.0560,160.6420,4754,Stratovolcano
+Ushkovsky,Russia,1890 CE,56.1130,160.5090,3943,Compound
+Sheveluch,Russia,2026 CE,56.6530,161.3600,3283,Stratovolcano
+Piip,Russia,5050 BCE,55.4200,167.3300,-300,Stratovolcano
+Khangar,Russia,1500 CE,54.7610,157.4070,1967,Stratovolcano
+Cherpuk Group,Russia,4550 BCE,55.5500,157.4700,1868,Pyroclastic cone(s)
+Ichinsky,Russia,1740 CE,55.6780,157.7180,3596,Stratovolcano
+Bolshoi-Kekuknaysky,Russia,5310 BCE,56.4830,157.9170,1401,Shield(s)
+Alney-Chashakondzha,Russia,1600 CE,56.6560,159.6470,2570,Stratovolcano
+Shisheika,Russia,2240 BCE,57.1530,161.0900,355,Lava dome
+Terpuk,Russia,800 BCE,57.2000,159.8300,765,Shield
+Sedanka Lava Field,Russia,7050 BCE,57.3170,160.0670,1399,Volcanic field
+Gorny Institute,Russia,1250 CE,57.3300,160.2000,2125,Stratovolcano
+Kinenin,Russia,850 CE,57.3500,160.9700,583,Maar
+Bliznetsy,Russia,1060 BCE,57.3500,161.3700,265,Lava cone
+Titila,Russia,550 BCE,57.4060,160.1080,1523,Shield(s)
+Elovsky,Russia,7550 BCE,57.5500,160.5300,1381,Shield(s)
+Nylgimelkin,Russia,3550 BCE,57.9700,160.6500,1764,Shield(s)
+Spokoiny,Russia,3450 BCE,58.1300,160.8200,2171,Stratovolcano
+Ostry,Russia,2050 BCE,58.1800,160.8200,2552,Stratovolcano
+Severny,Russia,1550 BCE,58.2800,160.8700,1936,Shield
+Udokan Plateau,Russia,220 BCE,56.2800,117.7700,2180,Volcanic field
+Jombolok,Russia,737 CE,52.7130,99.0210,2047,Volcanic field
+Taryatu-Chulutu,Mongolia,2980 BCE,48.1330,99.9500,2326,Volcanic field
+Khoid Naiman Nuur,Mongolia,Unknown,46.6459,101.7982,2532,Pyroclastic cone
+Ashikule Volcanic Field,China,1951 CE,35.7420,81.6460,5090,Volcanic field
+Honggeertu,China,Unknown,41.5900,113.1110,1605,Volcanic field
+Arxan-Chaihe,China,0 CE,47.4500,120.8000,1677,Volcanic field
+Keluo Group,China,Unknown,49.3700,125.9200,670,Volcanic field
+Wudalianchi,China,1776 CE,48.7220,126.1500,597,Volcanic field
+Jingpohu,China,520 BCE,44.0800,128.8300,1000,Volcanic field
+Longgang Group,China,350 CE,42.3300,126.5000,1000,Volcanic field
+Changbaishan,China-North Korea,1903 CE,41.9800,128.0800,2744,Stratovolcano
+Ulleungdo,South Korea,2990 BCE,37.5000,130.8700,984,Stratovolcano
+Halla,South Korea,1007 CE,33.3610,126.5300,1919,Shield
+Buldir,United States,Unknown,52.3500,175.9110,656,Stratovolcano
+Kiska,United States,1990 CE,52.1030,177.6020,1220,Stratovolcano
+Segula,United States,Unknown,52.0150,178.1360,1160,Stratovolcano
+Davidof,United States,Unknown,51.9700,178.3300,328,Stratovolcano
+Little Sitkin,United States,1830 CE,51.9500,178.5430,1174,Stratovolcano
+Semisopochnoi,United States,2023 CE,51.9300,179.5800,1221,Stratovolcano
+Gareloi,United States,1989 CE,51.7900,-178.7940,1573,Stratovolcano
+Tanaga,United States,1914 CE,51.8850,-178.1460,1806,Stratovolcano(es)
+Takawangha,United States,1550 CE,51.8730,-178.0060,1449,Stratovolcano
+Bobrof,United States,Unknown,51.9100,-177.4380,738,Stratovolcano
+Kanaga,United States,2023 CE,51.9230,-177.1680,1307,Stratovolcano
+Moffett,United States,1600 BCE,51.9440,-176.7470,1196,Stratovolcano
+Great Sitkin,United States,2026 CE,52.0760,-176.1300,1740,Stratovolcano
+Kasatochi,United States,2008 CE,52.1770,-175.5080,314,Stratovolcano
+Koniuji,United States,1150 BCE,52.2200,-175.1300,273,Stratovolcano
+Atka Volcanic Complex,United States,2025 CE,52.3310,-174.1390,1518,Stratovolcano(es)
+Seguam,United States,1993 CE,52.3150,-172.5100,1054,Stratovolcano(es)
+Amukta,United States,1996 CE,52.5000,-171.2520,1066,Stratovolcano
+Chagulak,United States,Unknown,52.5716,-171.1383,1028,Stratovolcano
+Yunaska,United States,1937 CE,52.6394,-170.6317,550,Shield
+Herbert,United States,Unknown,52.7420,-170.1110,1280,Stratovolcano
+Carlisle,United States,1828 CE,52.8940,-170.0540,1620,Stratovolcano
+Cleveland,United States,2020 CE,52.8250,-169.9440,1730,Stratovolcano
+Tana,United States,Unknown,52.8300,-169.7700,1170,Stratovolcano(es)
+Uliaga,United States,Unknown,53.0650,-169.7700,888,Stratovolcano
+Kagamil,United States,1929 CE,52.9740,-169.7200,893,Stratovolcano
+Vsevidof,United States,1878 CE,53.1264,-168.6875,2160,Stratovolcano
+Recheschnoi,United States,Unknown,53.1570,-168.5390,1984,Stratovolcano
+Okmok,United States,2008 CE,53.4300,-168.1300,1073,Shield
+Bogoslof,United States,2017 CE,53.9300,-168.0300,150,Stratovolcano
+Makushin,United States,1995 CE,53.8910,-166.9230,1800,Stratovolcano
+Akutan,United States,1992 CE,54.1340,-165.9860,1303,Stratovolcano
+Westdahl,United States,1992 CE,54.5160,-164.6500,1563,Stratovolcano?
+Fisher,United States,1830 CE,54.6500,-164.4300,1112,Stratovolcano
+Shishaldin,United States,2023 CE,54.7560,-163.9700,2857,Stratovolcano
+Roundtop,United States,7600 BCE,54.8000,-163.5890,1871,Stratovolcano
+Amak,United States,1796 CE,55.4184,-163.1472,547,Stratovolcano
+Frosty,United States,Unknown,55.0670,-162.8350,1728,Stratovolcano(es)
+Dutton,United States,Unknown,55.1830,-162.2760,1465,Stratovolcano
+Emmons Lake Volcanic Center,United States,Unknown,55.3519,-162.0445,1534,Caldera
+Pavlof,United States,2022 CE,55.4170,-161.8940,2493,Stratovolcano
+Pavlof Sister,United States,Unknown,55.4570,-161.8540,2142,Stratovolcano
+Dana,United States,1890 BCE,55.6410,-161.2140,1354,Stratovolcano
+Stepovak Bay Group,United States,Unknown,55.9170,-160.0170,1633,Volcanic field
+Kupreanof,United States,Unknown,56.0110,-159.7970,1895,Stratovolcano
+Veniaminof,United States,2021 CE,56.1700,-159.3800,2507,Stratovolcano
+Black Peak,United States,1900 BCE,56.5520,-158.7850,1032,Stratovolcano
+Aniakchak,United States,1931 CE,56.8800,-158.1700,1341,Caldera
+Yantarni,United States,800 BCE,57.0190,-157.1850,1345,Stratovolcano
+Chiginagak,United States,1998 CE,57.1350,-156.9900,2221,Stratovolcano
+Kialagvik,United States,Unknown,57.2030,-156.7450,1677,Stratovolcano
+Ugashik-Peulik,United States,1814 CE,57.7510,-156.3680,1474,Stratovolcano
+Ukinrek Maars,United States,1977 CE,57.8344,-156.5203,91,Maar(s)
+Alaska Peninsula Arc at 155.4°W,United States,Unknown,57.8700,-155.4110,402,Lava dome
+Martin,United States,1953 CE,58.1720,-155.3610,1863,Stratovolcano
+Mageik,United States,500 BCE,58.1950,-155.2530,2165,Stratovolcano
+Trident,United States,1974 CE,58.2360,-155.1000,1864,Stratovolcano
+Katmai,United States,1912 CE,58.2790,-154.9533,2047,Stratovolcano
+Novarupta,United States,1912 CE,58.2655,-155.1588,841,Caldera
+Griggs,United States,1790 BCE,58.3540,-155.0920,2317,Stratovolcano
+Snowy Mountain,United States,1710 CE,58.3360,-154.6820,2162,Stratovolcano(es)
+Denison,United States,Unknown,58.4180,-154.4490,2287,Stratovolcano
+Steller,United States,Unknown,58.4298,-154.3895,2279,Stratovolcano
+Kukak,United States,Unknown,58.4530,-154.3550,2043,Stratovolcano
+Kaguyak,United States,3850 BCE,58.6113,-154.0245,901,Lava dome(s)
+Fourpeaked,United States,2006 CE,58.7700,-153.6720,2105,Stratovolcano
+Douglas,United States,Unknown,58.8550,-153.5420,2140,Stratovolcano
+Augustine,United States,2006 CE,59.3626,-153.4350,1218,Lava dome(s)
+Iliamna,United States,1876 CE,60.0320,-153.0900,3053,Stratovolcano
+Redoubt,United States,2009 CE,60.4850,-152.7420,3108,Stratovolcano
+Spurr,United States,1992 CE,61.2990,-152.2510,3374,Stratovolcano
+Hayes,United States,1200 CE,61.6400,-152.4110,3034,Stratovolcano
+St. Paul Island,United States,1280 BCE,57.1670,-170.2130,203,Shield
+Ingakslugwat Hills,United States,Unknown,61.4300,-164.4700,190,Volcanic field
+St. Michael,United States,Unknown,63.4500,-162.1200,715,Volcanic field
+Imuruk Lake,United States,300 CE,65.5170,-163.4500,610,Volcanic field
+Buzzard Creek,United States,1050 BCE,64.0616,-148.4327,830,Tuff ring(s)
+Wrangell,United States,1912 CE,62.0060,-144.0170,4278,Shield
+Churchill,United States,847 CE,61.3800,-141.7500,5005,Stratovolcano
+Edgecumbe,United States,2080 BCE,57.0500,-135.7500,970,Volcanic field
+Duncan Canal,United States,Unknown,56.5000,-133.1000,15,Volcanic field
+Tlevak Strait-Suemez Island,United States,Unknown,55.2500,-133.3000,50,Volcanic field
+Behm Canal-Rudyerd Bay,United States,Unknown,55.3500,-131.0000,500,Volcanic field
+Fort Selkirk,Canada,Unknown,62.9300,-137.3800,1239,Volcanic field
+Alligator Lake,Canada,Unknown,60.4200,-135.4200,2217,Volcanic field
+Atlin Volcanic Field,Canada,Unknown,59.7080,-133.3580,1880,Pyroclastic cone(s)
+Tuya Volcanic Field,Canada,Unknown,59.3700,-130.5800,2123,Volcanic field
+Heart Peaks,Canada,Unknown,58.6000,-131.9700,2012,Shield
+Level Mountain,Canada,Unknown,58.4200,-131.3500,2164,Shield
+Edziza,Canada,950 CE,57.7200,-130.6300,2786,Stratovolcano
+Spectrum Range,Canada,Unknown,57.4300,-130.6800,2430,Shield
+Hoodoo Mountain,Canada,7050 BCE,56.7800,-131.2800,1850,Pyroclastic cone(s)
+Iskut-Unuk River Cones,Canada,1800 CE,56.5670,-130.7500,1880,Pyroclastic cone(s)
+Tseax River Cone,Canada,1690 CE,55.1109,-128.8991,612,Pyroclastic cone
+Crow Lagoon,Canada,Unknown,54.7000,-130.2300,335,Pyroclastic cone
+Milbanke Sound Group,Canada,Unknown,52.4980,-128.7230,233,Pyroclastic cone(s)
+Nazko,Canada,5220 BCE,52.9280,-123.7320,1238,Pyroclastic cone(s)
+Wells Gray-Clearwater,Canada,1550 CE,52.0306,-120.1125,950,Volcanic field
+Silverthrone,Canada,Unknown,51.5179,-126.1133,2860,Caldera
+Bridge River Cones,Canada,Unknown,50.8000,-123.4000,2500,Volcanic field
+Meager,Canada,410 BCE,50.6300,-123.5000,2680,Complex
+Garibaldi Lake,Canada,Unknown,49.9330,-123.0000,2316,Volcanic field
+Garibaldi,Canada,8060 BCE,49.8500,-123.0000,2678,Stratovolcano
+Cayley Volcanic Field,Canada,Unknown,50.1200,-123.2800,2375,Volcanic field
+Baker,United States,1880 CE,48.7770,-121.8130,3285,Stratovolcano(es)
+Glacier Peak,United States,1700 CE,48.1120,-121.1130,3213,Stratovolcano
+Rainier,United States,1450 CE,46.8530,-121.7600,4392,Stratovolcano
+Adams,United States,950 CE,46.2060,-121.4900,3742,Stratovolcano
+St. Helens,United States,2008 CE,46.2000,-122.1800,2549,Stratovolcano
+West Crater,United States,5750 BCE,45.8800,-122.0800,1329,Volcanic field
+Indian Heaven,United States,6250 BCE,45.9300,-121.8200,1806,Volcanic field
+Hood,United States,1866 CE,45.3740,-121.6950,3426,Stratovolcano
+Jefferson,United States,950 CE,44.6740,-121.8000,3199,Stratovolcano
+Blue Lake Crater,United States,680 CE,44.4125,-121.7686,1136,Maar
+Sand Mountain Field,United States,950 BCE,44.3800,-121.9300,1664,Volcanic field
+Belknap,United States,475 CE,44.2850,-121.8423,2094,Shield(s)
+Three Sisters,United States,439 CE,44.1330,-121.7670,3159,Complex
+Bachelor,United States,5800 BCE,43.9790,-121.6880,2763,Stratovolcano
+Davis Lake,United States,2790 BCE,43.5700,-121.8200,2163,Volcanic field
+Newberry,United States,690 CE,43.7220,-121.2290,2434,Shield
+Devils Garden,United States,Unknown,43.5120,-120.8610,1698,Volcanic field
+Cinnamon Butte,United States,Unknown,43.2411,-122.1111,1958,Pyroclastic cone(s)
+Crater Lake,United States,2850 BCE,42.9420,-122.1070,2487,Caldera
+Diamond Craters,United States,5610 BCE,43.1000,-118.7500,1435,Volcanic field
+Jordan Craters,United States,1250 BCE,43.1470,-117.4600,1473,Volcanic field
+Shasta,United States,1250 CE,41.4090,-122.1930,4317,Stratovolcano
+Medicine Lake,United States,1060 CE,41.6110,-121.5540,2412,Shield
+Lassen Volcanic Center,United States,1917 CE,40.4920,-121.5080,3187,Stratovolcano
+Clear Lake Volcanic Field,United States,Unknown,38.9700,-122.7700,1439,Volcanic field
+Mono Lake Volcanic Field,United States,1790 CE,38.0000,-119.0300,2121,Volcanic field
+Mono-Inyo Craters,United States,1380 CE,37.8040,-119.0290,2796,Lava dome(s)
+Mammoth Mountain,United States,1260 CE,37.6310,-119.0320,3369,Lava dome(s)
+Ubehebe Craters,United States,150 BCE,37.0200,-117.4500,752,Maar(s)
+Salton Buttes,United States,210 CE,33.1970,-115.6160,-40,Lava dome(s)
+Black Butte Crater Lava Field,United States,8180 BCE,43.1850,-114.3542,1478,Shield
+Craters of the Moon,United States,130 BCE,43.3710,-113.4930,2005,Volcanic field
+Wapi Lava Field,United States,300 BCE,42.8859,-113.2166,1597,Shield
+Hell's Half Acre,United States,3250 BCE,43.4920,-112.4503,1632,Shield
+Soda Lakes,United States,Unknown,39.5250,-118.8778,1251,Maar(s)
+Markagunt Plateau,United States,1050 CE,37.5800,-112.6700,2840,Volcanic field
+Black Rock Desert,United States,1290 CE,38.9700,-112.5000,1800,Volcanic field
+Carrizozo,United States,3250 BCE,33.7800,-105.9300,1731,Pyroclastic cone(s)
+Zuni-Bandera,United States,1170 BCE,34.8000,-108.0000,2550,Volcanic field
+Red Hill-Quemado,United States,9450 BCE,34.2500,-108.8300,2300,Volcanic field
+Dotsero,United States,2200 BCE,39.6613,-107.0355,2230,Maar
+Uinkaret Field,United States,1100 CE,36.3800,-113.1300,1555,Volcanic field
+San Francisco Volcanic Field,United States,1075 CE,35.3470,-111.6780,3850,Volcanic field
+West Valley Segment,Canada,Unknown,48.7800,-128.6400,-2550,Fissure vent
+Endeavour Segment,Canada,3490 BCE,47.9500,-129.1000,-2050,Fissure vent(s)
+Cobb Segment,Canada,1180 BCE,46.8800,-129.3300,-2100,Fissure vent(s)
+CoAxial Segment,Undersea Features,1993 CE,46.5200,-129.5800,-2400,Fissure vent(s)
+Axial Seamount,Undersea Features,2015 CE,45.9500,-130.0000,-1410,Fissure vent(s)
+Cleft Segment,Undersea Features,1986 CE,44.8300,-130.3000,-2140,Fissure vent(s)
+North Gorda Ridge Segment,United States,1996 CE,42.6700,-126.7800,-3000,Fissure vent(s)
+Jackson Segment,United States,Unknown,42.1500,-127.0500,-3100,Fissure vent(s)
+Escanaba Segment,United States,2260 BCE,40.9800,-127.5000,-1700,Fissure vent(s)
+East Blanco Depression,Undersea Features,Unknown,44.2670,-129.8790,-3000,Fissure vent
+Kamaehuakanaloa,United States,1996 CE,18.9200,-155.2700,-975,Shield
+Kilauea,United States,2026 CE,19.4210,-155.2870,1222,Shield
+Mauna Loa,United States,2022 CE,19.4750,-155.6080,4170,Shield
+Mauna Kea,United States,2460 BCE,19.8200,-155.4700,4205,Shield
+Hualalai,United States,1801 CE,19.6920,-155.8700,2523,Shield
+Haleakala,United States,1750 CE,20.7099,-156.2537,3053,Shield
+Teahitia,France,1985 CE,-17.5640,-148.8210,-1743,Compound
+Rocard,France,1972 CE,-17.6620,-148.5860,-2515,Cone
+Moua Pihaa,France,1970 CE,-18.3250,-148.5250,-312,Stratovolcano
+Mehetia,France,Unknown,-17.8740,-148.0680,389,Stratovolcano
+Adams Seamount,United Kingdom,50 BCE,-25.3700,-129.2700,-39,Lava dome
+Macdonald,France,1989 CE,-28.9800,-140.2500,-39,Shield
+Northern EPR at 17°N,Mexico,50 BCE,16.5500,-105.3200,-2700,Fissure vent(s)
+Northern EPR at 16°N,Mexico,50 BCE,15.8300,-105.4300,-2300,Fissure vent(s)
+Northern EPR at 10.7°N,Undersea Features,2003 CE,10.7300,-103.5800,-2900,Fissure vent(s)
+Northern EPR at 9.8°N,Undersea Features,2025 CE,9.8300,-104.3000,-2500,Fissure vent(s)
+Galapagos Rift at 86°W,Ecuador,1996 CE,0.7920,-86.1500,-2430,Fissure vent(s)
+Southern EPR at 8°S,Undersea Features,1969 CE,-8.2700,-107.9500,-2800,Fissure vent(s)
+Southern EPR at 17.5°S (Segment K),Undersea Features,1990 CE,-17.4360,-113.2060,-2566,Fissure vent(s)
+Southern EPR at 18.2°S (Segment J),Undersea Features,1890 CE,-18.1750,-113.3500,-2650,Fissure vent(s)
+Southern EPR at 18.5°S (Segment I),Undersea Features,1915 CE,-18.5300,-113.4200,-2600,Fissure vent(s)
+Hollister Ridge,Undersea Features,Unknown,-53.9980,-139.8450,-1000,Fissure vent
+Udintsev Transform,Undersea Features,Unknown,-56.1530,-143.3730,-5700,Fissure vent
+Pinacate,Mexico,Unknown,31.8500,-113.5000,1183,Volcanic field
+"San Luis, Isla",Mexico,1141 BCE,29.9728,-114.4082,183,Tuff cone
+Jaraguay Volcanic Field,Mexico,Unknown,29.3300,-114.5000,960,Volcanic field
+San Borja Volcanic Field,Mexico,Unknown,28.5000,-113.7500,1360,Volcanic field
+"Tortuga, Isla",Mexico,Unknown,27.4380,-111.8810,224,Shield
+Comondu-La Purisima,Mexico,Unknown,26.0000,-111.9200,780,Volcanic field
+Barcena,Mexico,1953 CE,19.3000,-110.8200,332,Pyroclastic cone(s)
+Socorro,Mexico,1994 CE,18.7800,-110.9500,1050,Shield
+Durango Volcanic Field,Mexico,Unknown,24.1500,-104.4500,2075,Volcanic field
+Sanganguey,Mexico,Unknown,21.4500,-104.7300,2340,Stratovolcano
+Ceboruco,Mexico,1875 CE,21.1250,-104.5080,2280,Stratovolcano
+Mascota Volcanic Field,Mexico,Unknown,20.5670,-104.8170,2525,Volcanic field
+Colima,Mexico,2019 CE,19.5140,-103.6200,3850,Stratovolcano(es)
+Michoacan-Guanajuato,Mexico,1952 CE,19.8500,-101.7500,3860,Volcanic field
+Zitacuaro-Valle de Bravo,Mexico,3050 BCE,19.4000,-100.2500,3500,Volcanic field
+Jocotitlan,Mexico,1270 CE,19.7383,-99.7579,3911,Stratovolcano
+"Toluca, Nevado de",Mexico,1350 BCE,19.1080,-99.7580,4680,Stratovolcano
+Chichinautzin,Mexico,399 CE,19.1390,-99.1600,3938,Volcanic field
+Iztaccihuatl,Mexico,Unknown,19.1790,-98.6420,5230,Stratovolcano
+Popocatepetl,Mexico,2026 CE,19.0230,-98.6220,5393,Stratovolcano(es)
+"Malinche, La",Mexico,1170 BCE,19.2310,-98.0320,4461,Stratovolcano
+Serdan-Oriental Volcanic Field,Mexico,3920 BCE,19.2700,-97.4700,3485,Volcanic field
+"Humeros, Los",Mexico,4470 BCE,19.6800,-97.4500,3150,Caldera(s)
+Naolinco Volcanic Field,Mexico,1145 CE,19.6350,-96.9100,2000,Volcanic field
+"Orizaba, Pico de",Mexico,1846 CE,19.0300,-97.2700,5564,Stratovolcano
+San Martin,Mexico,1796 CE,18.5615,-95.1989,1660,Volcanic field
+"Chichon, El",Mexico,1982 CE,17.3602,-93.2297,1150,Lava dome(s)
+Tacana,Mexico-Guatemala,1986 CE,15.1320,-92.1090,4064,Stratovolcano
+Tajumulco,Guatemala,Unknown,15.0430,-91.9030,4203,Stratovolcano
+Santa Maria,Guatemala,2026 CE,14.7570,-91.5520,3745,Stratovolcano
+Almolonga,Guatemala,1818 CE,14.7970,-91.5190,3173,Stratovolcano
+Atitlan,Guatemala,1853 CE,14.5830,-91.1860,3535,Stratovolcano(es)
+Toliman,Guatemala,Unknown,14.6120,-91.1890,3158,Stratovolcano(es)
+Acatenango,Guatemala,1972 CE,14.5010,-90.8760,3976,Stratovolcano(es)
+Fuego,Guatemala,2026 CE,14.4748,-90.8806,3799,Stratovolcano(es)
+Agua,Guatemala,Unknown,14.4650,-90.7430,3760,Stratovolcano
+Pacaya,Guatemala,2021 CE,14.3820,-90.6010,2569,Complex
+Cuilapa-Barbarena,Guatemala,Unknown,14.3300,-90.4000,1454,Volcanic field
+Tecuamburro,Guatemala,960 BCE,14.1560,-90.4070,1845,Stratovolcano
+Jumaytepeque,Guatemala,Unknown,14.3400,-90.2710,1802,Stratovolcano
+Moyuta,Guatemala,Unknown,14.0300,-90.1000,1662,Stratovolcano
+Flores,Guatemala,Unknown,14.3080,-89.9920,1600,Volcanic field
+Tahual,Guatemala,Unknown,14.4300,-89.9000,1716,Stratovolcano
+"Santiago, Cerro",Guatemala,Unknown,14.3300,-89.8700,1192,Volcanic field
+Suchitan,Guatemala,Unknown,14.4000,-89.7800,2042,Stratovolcano(es)
+Chingo,Guatemala-El Salvador,Unknown,14.1200,-89.7300,1775,Stratovolcano
+Ixtepeque,Guatemala,Unknown,14.4200,-89.6800,1292,Lava dome(s)
+"Singuil, Cerro",El Salvador,Unknown,14.0540,-89.6310,926,Volcanic field
+Apaneca Range,El Salvador,Unknown,13.8720,-89.7420,2028,Stratovolcano(es)
+Santa Ana,El Salvador,2005 CE,13.8530,-89.6300,2381,Stratovolcano
+Izalco,El Salvador,1966 CE,13.8130,-89.6330,1950,Stratovolcano
+Coatepeque Caldera,El Salvador,Unknown,13.8700,-89.5500,746,Caldera
+San Salvador,El Salvador,1917 CE,13.7340,-89.2940,1893,Stratovolcano
+"Cinotepeque, Cerro",El Salvador,Unknown,14.0200,-89.2500,665,Volcanic field
+Ilopango,El Salvador,1880 CE,13.6720,-89.0530,450,Caldera
+San Vicente,El Salvador,Unknown,13.5969,-88.8375,2149,Stratovolcano
+Taburete,El Salvador,Unknown,13.4350,-88.5320,1172,Stratovolcano
+Tecapa,El Salvador,Unknown,13.4940,-88.5020,1593,Stratovolcano
+Usulutan,El Salvador,Unknown,13.4190,-88.4710,1449,Stratovolcano
+"Tigre, El",El Salvador,Unknown,13.4700,-88.4300,1640,Stratovolcano
+Chinameca,El Salvador,Unknown,13.4780,-88.3300,1300,Stratovolcano
+San Miguel,El Salvador,2023 CE,13.4340,-88.2690,2130,Stratovolcano
+"Aramuaca, Laguna",El Salvador,Unknown,13.4280,-88.1050,181,Maar
+"Tigre, Isla del",Honduras,Unknown,13.2740,-87.6390,774,Stratovolcano
+"Zacate Grande, Isla",Honduras,Unknown,13.3300,-87.6300,640,Stratovolcano
+"Yojoa, Lago",Honduras,7638 BCE,14.9640,-87.9830,1060,Volcanic field
+Cosiguina,Nicaragua,1859 CE,12.9800,-87.5700,872,Stratovolcano
+San Cristobal,Nicaragua,2024 CE,12.7020,-87.0040,1745,Stratovolcano
+Telica,Nicaragua,2025 CE,12.6060,-86.8400,1036,Stratovolcano(es)
+"Negro, Cerro",Nicaragua,1999 CE,12.5060,-86.7020,728,Pyroclastic cone(s)
+Las Pilas-El Hoyo Complex,Nicaragua,1954 CE,12.4922,-86.6786,1088,Complex
+Momotombo,Nicaragua,2016 CE,12.4230,-86.5390,1270,Stratovolcano
+Apoyeque,Nicaragua,50 BCE,12.2420,-86.3420,518,Caldera
+Nejapa-Miraflores,Nicaragua,1060 CE,12.1200,-86.3200,360,Fissure vent(s)
+Masaya,Nicaragua,2026 CE,11.9844,-86.1688,594,Caldera
+Granada,Nicaragua,Unknown,11.9000,-85.9790,250,Fissure vent(s)
+Mombacho,Nicaragua,Unknown,11.8260,-85.9680,1344,Stratovolcano
+Zapatera,Nicaragua,Unknown,11.7300,-85.8200,629,Shield
+Concepcion,Nicaragua,2024 CE,11.5380,-85.6220,1700,Stratovolcano
+Orosi,Costa Rica,Unknown,10.9800,-85.4730,1659,Stratovolcano(es)
+Rincon de la Vieja,Costa Rica,2024 CE,10.8314,-85.3364,1729,Complex
+Miravalles,Costa Rica,1946 CE,10.7480,-85.1530,2028,Stratovolcano
+Tenorio,Costa Rica,Unknown,10.6730,-85.0150,1916,Stratovolcano(es)
+Arenal,Costa Rica,2010 CE,10.4630,-84.7030,1670,Stratovolcano
+Platanar,Costa Rica,Unknown,10.3000,-84.3660,2267,Stratovolcano(es)
+Poas,Costa Rica,2026 CE,10.2000,-84.2330,2697,Stratovolcano
+Barva,Costa Rica,6050 BCE,10.1350,-84.1000,2906,Complex
+Irazu,Costa Rica,1977 CE,9.9790,-83.8520,3436,Stratovolcano
+Turrialba,Costa Rica,2022 CE,10.0250,-83.7670,3340,Stratovolcano
+Baru,Panama,1550 CE,8.8080,-82.5430,3474,Stratovolcano
+Romeral,Colombia,5390 BCE,5.2030,-75.3630,3769,Stratovolcano
+"Bravo, Cerro",Colombia,1720 CE,5.0910,-75.2930,3985,Stratovolcano
+"Ruiz, Nevado del",Colombia,2026 CE,4.8920,-75.3240,5279,Stratovolcano
+Santa Isabel,Colombia,850 BCE,4.8180,-75.3650,4944,Shield
+"Tolima, Nevado del",Colombia,1943 CE,4.6580,-75.3300,5215,Stratovolcano
+Machin,Colombia,1180 CE,4.4870,-75.3890,2749,Stratovolcano
+"Huila, Nevado del",Colombia,2012 CE,2.9300,-76.0300,5364,Stratovolcano
+Purace,Colombia,2026 CE,2.3095,-76.3948,4650,Stratovolcano(es)
+Sotara,Colombia,Unknown,2.1080,-76.5920,4400,Stratovolcano
+Dona Juana,Colombia,1906 CE,1.5000,-76.9360,4137,Stratovolcano
+Galeras,Colombia,2014 CE,1.2200,-77.3700,4276,Complex
+Azufral,Colombia,930 BCE,1.0800,-77.6800,4070,Stratovolcano
+Cumbal,Colombia,1926 CE,0.9500,-77.8700,4764,Stratovolcano
+Chiles-Cerro Negro,Colombia-Ecuador,1936 CE,0.8170,-77.9380,4698,Stratovolcano
+Soche,Ecuador,6650 BCE,0.5520,-77.5800,3955,Stratovolcano
+Chachimbiro,Ecuador,3740 BCE,0.4680,-78.2870,4106,Stratovolcano
+Cuicocha,Ecuador,650 CE,0.3080,-78.3640,3246,Caldera
+Imbabura,Ecuador,5550 BCE,0.2580,-78.1830,4609,Compound
+Mojanda,Ecuador,Unknown,0.1300,-78.2700,4263,Stratovolcano(es)
+Cayambe,Ecuador,1786 CE,0.0290,-77.9860,5790,Compound
+Reventador,Ecuador,2026 CE,-0.0770,-77.6560,3562,Stratovolcano
+Pululahua,Ecuador,290 CE,0.0464,-78.4900,3360,Caldera
+Guagua Pichincha,Ecuador,2002 CE,-0.1710,-78.5980,4784,Stratovolcano
+Atacazo,Ecuador,320 BCE,-0.3530,-78.6170,4463,Stratovolcano
+Chacana,Ecuador,1773 CE,-0.3750,-78.2500,4643,Caldera
+Antisana,Ecuador,1802 CE,-0.4810,-78.1410,5753,Stratovolcano
+Aliso,Ecuador,2450 BCE,-0.5300,-78.0000,4267,Stratovolcano
+Sumaco,Ecuador,1895 CE,-0.5380,-77.6260,3990,Stratovolcano
+Iliniza,Ecuador,Unknown,-0.6620,-78.7160,5162,Stratovolcano
+Cotopaxi,Ecuador,2023 CE,-0.6770,-78.4360,5911,Stratovolcano
+Quilotoa,Ecuador,1280 CE,-0.8592,-78.9044,3914,Caldera
+Chimborazo,Ecuador,550 CE,-1.4690,-78.8170,6261,Stratovolcano
+Tungurahua,Ecuador,2016 CE,-1.4670,-78.4420,5023,Stratovolcano
+Licto,Ecuador,Unknown,-1.7860,-78.6140,3322,Pyroclastic cone(s)
+Sangay,Ecuador,2026 CE,-2.0050,-78.3410,5286,Stratovolcano
+Fernandina,Ecuador,2024 CE,-0.3700,-91.5500,1476,Shield
+Ecuador,Ecuador,1150 CE,-0.0200,-91.5460,790,Shield
+Wolf,Ecuador,2022 CE,0.0200,-91.3500,1710,Shield
+Darwin,Ecuador,1813 CE,-0.1800,-91.2800,1330,Shield
+Alcedo,Ecuador,1993 CE,-0.4300,-91.1200,1130,Shield
+"Negra, Sierra",Ecuador,2018 CE,-0.8300,-91.1700,1124,Shield
+"Azul, Cerro",Ecuador,2008 CE,-0.9200,-91.4080,1640,Shield
+Pinta,Ecuador,Unknown,0.5858,-90.7553,729,Shield
+Marchena,Ecuador,1991 CE,0.3300,-90.4700,343,Shield
+Genovesa,Ecuador,Unknown,0.3200,-89.9580,64,Shield
+Santiago,Ecuador,1906 CE,-0.2200,-90.7700,920,Shield
+Santa Cruz,Ecuador,Unknown,-0.6200,-90.3300,864,Shield
+San Cristobal,Ecuador,Unknown,-0.8292,-89.4292,707,Shield
+Quimsachata-Oroscocha,Peru,4450 BCE,-14.1310,-71.3630,3848,Lava dome
+"Auquihuato, Cerro",Peru,Unknown,-15.0726,-73.1914,5001,Pyroclastic cone
+Coropuna,Peru,Unknown,-15.5200,-72.6500,6377,Stratovolcano
+Andahua-Orcopampa,Peru,1490 CE,-15.4200,-72.3300,4713,Volcanic field
+Huambo,Peru,700 BCE,-15.7800,-72.0800,4554,Volcanic field
+Sabancaya,Peru,2026 CE,-15.7870,-71.8570,5960,Stratovolcano(es)
+"Misti, El",Peru,1985 CE,-16.2991,-71.4056,5793,Stratovolcano
+Ubinas,Peru,2024 CE,-16.3450,-70.8972,5608,Stratovolcano
+Huaynaputina,Peru,1600 CE,-16.6144,-70.8542,4679,Stratovolcano
+Ticsani,Peru,1800 CE,-16.7586,-70.5981,5382,Lava dome(s)
+Tutupaca,Peru,1802 CE,-17.0260,-70.3720,5801,Stratovolcano(es)
+Yucamane,Peru,1320 BCE,-17.1840,-70.1960,5495,Stratovolcano(es)
+"Casiri, Nevados",Peru,Unknown,-17.4852,-69.7886,5626,Stratovolcano(es)
+Taapaca,Chile,320 BCE,-18.1000,-69.5000,5860,Complex
+Parinacota,Chile-Bolivia,290 CE,-18.1660,-69.1420,6336,Stratovolcano
+Guallatiri,Chile,1960 CE,-18.4200,-69.0920,6071,Stratovolcano
+Isluga,Chile,1913 CE,-19.1500,-68.8300,5550,Stratovolcano
+Tata Sabaya,Bolivia,Unknown,-19.1300,-68.5300,5430,Stratovolcano
+Irruputuncu,Chile-Bolivia,1995 CE,-20.7300,-68.5500,5163,Stratovolcano
+Olca-Paruma,Chile-Bolivia,Unknown,-20.9390,-68.4130,5705,Stratovolcano(es)
+Putana,Chile,1810 CE,-22.5570,-67.8530,5884,Stratovolcano
+Sairecabur,Chile-Bolivia,Unknown,-22.7190,-67.8910,5961,Stratovolcano(es)
+Licancabur,Chile-Bolivia,Unknown,-22.8300,-67.8800,5916,Stratovolcano
+Guayaques,Chile-Bolivia,Unknown,-22.8950,-67.5660,5598,Lava dome(s)
+Purico Complex,Chile,Unknown,-23.0000,-67.7500,5703,Shield(pyroclastic)
+Colachi,Chile,Unknown,-23.2360,-67.6450,5631,Stratovolcano
+Acamarachi,Chile,Unknown,-23.2920,-67.6180,6023,Stratovolcano
+Chiliques,Chile,Unknown,-23.5800,-67.7000,5778,Stratovolcano
+Lascar,Chile,2026 CE,-23.3700,-67.7300,5592,Stratovolcano(es)
+Cordon de Puntas Negras,Chile,Unknown,-23.7430,-67.5340,5852,Stratovolcano(es)
+Miniques,Chile,Unknown,-23.8200,-67.7700,5910,Stratovolcano(es)
+"Tujle, Cerro",Chile,Unknown,-23.8300,-67.9500,3550,Maar
+Caichinque,Chile,Unknown,-23.9490,-67.7400,4458,Stratovolcano(es)
+Tilocalar,Chile,Unknown,-23.9700,-68.1300,3109,Lava cone(es)
+Pular,Chile,Unknown,-24.1880,-68.0540,6233,Stratovolcano(es)
+"Negrillar, La",Chile,Unknown,-24.3190,-68.5900,4220,Pyroclastic cone(s)
+Socompa,Chile-Argentina,5250 BCE,-24.3960,-68.2460,6031,Stratovolcano
+Llullaillaco,Chile-Argentina,1877 CE,-24.7200,-68.5300,6739,Stratovolcano
+Corrida de Cori Volcanic Field,Chile-Argentina,Unknown,-25.0830,-68.3670,5451,Stratovolcano
+Lastarria,Chile-Argentina,Unknown,-25.1680,-68.5070,5706,Stratovolcano
+Cordon del Azufre,Chile-Argentina,Unknown,-25.3360,-68.5210,5481,Complex
+"Bayo Gorbea, Cerro",Chile-Argentina,Unknown,-25.4140,-68.5880,5413,Complex
+"Nevada, Sierra",Chile-Argentina,Unknown,-26.4800,-68.5800,6173,Complex
+Falso Azufre,Chile-Argentina,Unknown,-26.8000,-68.3700,5906,Complex
+"Incahuasi, Nevado de",Chile-Argentina,Unknown,-27.0330,-68.2960,6638,Stratovolcano(es)
+"Ojos del Salado, Nevados",Chile-Argentina,750 CE,-27.1090,-68.5410,6879,Stratovolcano
+"Solo, El",Chile-Argentina,Unknown,-27.1050,-68.7130,6205,Stratovolcano
+Aracar,Argentina,Unknown,-24.2900,-67.7830,6095,Stratovolcano
+Central Andean Arc at 25.1°S,Argentina,Unknown,-25.0780,-68.2660,4652,Pyroclastic cone
+"Condor, El",Argentina,Unknown,-26.6320,-68.3610,6373,Stratovolcano
+Peinado,Argentina,Unknown,-26.6230,-68.1160,5741,Stratovolcano
+"Blanco, Cerro",Argentina,2300 BCE,-26.7657,-67.7460,4670,Caldera
+Tipas,Argentina,Unknown,-27.1960,-68.5610,6658,Complex
+Rapa Nui,Chile,Unknown,-27.1140,-109.3560,501,Shield(s)
+Tupungatito,Chile-Argentina,1987 CE,-33.4250,-69.7970,5660,Stratovolcano
+San Jose,Chile-Argentina,1960 CE,-33.7890,-69.8950,6070,Stratovolcano(es)
+Maipo,Chile-Argentina,1912 CE,-34.1640,-69.8320,5323,Caldera
+Palomo,Chile,Unknown,-34.6080,-70.2950,4860,Stratovolcano
+"Atuel, Caldera del",Argentina,Unknown,-34.5920,-69.9210,5189,Caldera
+Risco Plateado,Argentina,Unknown,-34.9170,-69.9810,4999,Stratovolcano
+Tinguiririca,Chile,1917 CE,-34.8140,-70.3520,4280,Stratovolcano
+Planchon-Peteroa,Chile,2025 CE,-35.2230,-70.5680,3977,Stratovolcano(es)
+Infiernillo,Argentina,6890 BCE,-35.1230,-69.9000,3007,Volcanic field
+Calabozos,Chile,Unknown,-35.5580,-70.4960,3508,Caldera
+Descabezado Grande,Chile,1933 CE,-35.5800,-70.7500,3953,Stratovolcano(es)
+"Azul, Cerro",Chile,1967 CE,-35.6530,-70.7610,3788,Stratovolcano
+"Maule, Laguna del",Chile,50 BCE,-36.0580,-70.4920,2162,Caldera
+San Pedro-Pellado,Chile,Unknown,-35.9890,-70.8490,3621,Stratovolcano(es)
+"Longavi, Nevado de",Chile,4890 BCE,-36.1959,-71.1641,3175,Stratovolcano
+"Blancas, Lomas",Chile,Unknown,-36.2860,-71.0090,2268,Stratovolcano
+"Resago, Volcan",Chile,Unknown,-36.4606,-70.9033,1890,Pyroclastic cone
+Payun Matru,Argentina,5050 BCE,-36.4220,-69.2410,3715,Volcanic field
+"Chillan, Nevados de",Chile,2022 CE,-36.8680,-71.3780,3180,Stratovolcano
+Tromen Volcanic Plateau,Argentina,1822 CE,-37.1440,-70.0330,4114,Stratovolcano(es)
+Antuco,Chile,1869 CE,-37.4060,-71.3490,2979,Stratovolcano
+Copahue,Chile-Argentina,2024 CE,-37.8560,-71.1830,2953,Stratovolcano
+Callaqui,Chile,1980 CE,-37.9276,-71.4464,3099,Stratovolcano
+Tolhuaca,Chile,4000 BCE,-38.3100,-71.6450,2739,Stratovolcano
+Lonquimay,Chile,1990 CE,-38.3790,-71.5860,2832,Stratovolcano
+"Blanca, Laguna",Argentina,Unknown,-39.0200,-70.3700,1700,Volcanic field
+Llaima,Chile,2009 CE,-38.6920,-71.7290,3125,Stratovolcano
+Sollipulli,Chile,1240 CE,-38.9700,-71.5200,2282,Caldera
+Caburgua-Huelemolle,Chile,5050 BCE,-39.2500,-71.7500,1652,Volcanic field
+Villarrica,Chile,2025 CE,-39.4200,-71.9300,2847,Stratovolcano
+Quetrupillan,Chile,255 CE,-39.4960,-71.7220,2360,Stratovolcano
+Lanin,Chile-Argentina,560 CE,-39.6370,-71.5020,3776,Stratovolcano
+Huanquihue Group,Argentina,1750 CE,-39.8870,-71.5800,2189,Stratovolcano(es)
+Mocho-Choshuenco,Chile,1937 CE,-39.9270,-72.0270,2422,Stratovolcano(es)
+Carran-Los Venados,Chile,1979 CE,-40.3500,-72.0700,1114,Pyroclastic cone(s)
+Puyehue-Cordon Caulle,Chile,2012 CE,-40.5900,-72.1170,2236,Stratovolcano
+Antillanca Volcanic Complex,Chile,230 BCE,-40.7830,-72.1500,1979,Stratovolcano(es)
+Puntiagudo-Cordon Cenizos,Chile,1850 CE,-40.9690,-72.2640,2493,Stratovolcano
+Osorno,Chile,1869 CE,-41.1050,-72.4960,2659,Stratovolcano
+Tronador,Chile-Argentina,Unknown,-41.1570,-71.8850,3478,Stratovolcano
+Cayutue-La Vigueria,Chile,190 BCE,-41.3000,-72.2700,506,Volcanic field
+Calbuco,Chile,2015 CE,-41.3300,-72.6180,1974,Stratovolcano
+Yate,Chile,1090 CE,-41.7550,-72.3960,2187,Stratovolcano
+Hornopiren,Chile,340 CE,-41.8740,-72.4310,1572,Stratovolcano
+Apagado,Chile,590 BCE,-41.8800,-72.5800,1210,Pyroclastic cone
+Crater Basalt Volcanic Field,Argentina,Unknown,-42.0180,-70.1940,1344,Volcanic field
+Huequi,Chile,1920 CE,-42.3770,-72.5780,1318,Lava dome(s)
+Michinmahuida,Chile,1835 CE,-42.7990,-72.4450,2452,Stratovolcano
+Chaiten,Chile,2011 CE,-42.8349,-72.6514,1122,Caldera
+Yanteles,Chile,6650 BCE,-43.4690,-72.7820,1790,Stratovolcano(es)
+Corcovado,Chile,4920 BCE,-43.1890,-72.7940,1826,Stratovolcano
+Melimoyu,Chile,200 CE,-44.0800,-72.8800,2400,Stratovolcano
+Puyuhuapi,Chile,Unknown,-44.3000,-72.5300,524,Pyroclastic cone(s)
+Mentolat,Chile,1710 CE,-44.6931,-73.0767,1603,Stratovolcano
+Cay,Chile,Unknown,-45.0590,-72.9840,2090,Stratovolcano
+Maca,Chile,1560 CE,-45.1000,-73.1700,2960,Stratovolcano
+"Hudson, Cerro",Chile,2011 CE,-45.9000,-72.9700,1905,Stratovolcano
+Lautaro,Chile,1979 CE,-49.0190,-73.5040,3542,Stratovolcano
+Aguilera,Chile,1253 BCE,-50.3300,-73.7500,2546,Stratovolcano
+Reclus,Chile,1908 CE,-50.9395,-73.5802,1403,Pyroclastic cone
+Meullin,Chile,Unknown,-45.2200,-73.0500,1080,Volcanic field
+"Burney, Monte",Chile,1910 CE,-52.3300,-73.4000,1758,Stratovolcano
+Pali-Aike Volcanic Field,Chile-Argentina,5550 BCE,-52.0820,-69.6980,282,Volcanic field
+Fueguino,Chile,1820 CE,-54.9700,-70.2620,157,Lava dome(s)
+Saba,Netherlands,1640 CE,17.6300,-63.2300,887,Stratovolcano
+"Quill, The",Netherlands,250 CE,17.4780,-62.9600,601,Stratovolcano
+Liamuiga,Saint Kitts and Nevis,160 CE,17.3700,-62.8000,1156,Stratovolcano
+Nevis Peak,Saint Kitts and Nevis,Unknown,17.1500,-62.5800,985,Stratovolcano
+Soufriere Hills,United Kingdom,2013 CE,16.7200,-62.1800,915,Stratovolcano
+Soufriere Guadeloupe,France,1977 CE,16.0440,-61.6640,1467,Stratovolcano
+"Diables, Morne aux",Dominica,Unknown,15.6120,-61.4300,861,Lava dome(s)
+"Diablotins, Morne",Dominica,Unknown,15.5030,-61.3970,1430,Stratovolcano
+"Trois Pitons, Morne",Dominica,920 CE,15.3700,-61.3300,1387,Complex
+"Watt, Morne",Dominica,1997 CE,15.3070,-61.3050,1224,Stratovolcano(es)
+"Plat Pays, Morne",Dominica,1270 CE,15.2550,-61.3410,940,Stratovolcano
+Pelee,France,1932 CE,14.8090,-61.1660,1372,Stratovolcano
+Qualibou,Saint Lucia,1766 CE,13.8300,-61.0500,777,Caldera
+Soufriere St. Vincent,Saint Vincent and the Grenadines,2021 CE,13.3300,-61.1800,1220,Stratovolcano
+Kick 'em Jenny,Grenada,2017 CE,12.3000,-61.6400,-185,Complex
+St. Catherine,Grenada,Unknown,12.1500,-61.6700,840,Stratovolcano
+Snaefellsjokull,Iceland,200 CE,64.8000,-23.7830,1446,Stratovolcano
+Helgrindur,Iceland,Unknown,64.8660,-23.2830,986,Volcanic field
+Ljosufjoll,Iceland,960 CE,64.9000,-22.4830,1063,Volcanic field
+Reykjanes,Iceland,2025 CE,63.8170,-22.7170,140,Crater rows
+Eldey,Iceland,1926 CE,63.7330,-23.0000,70,Fissure vent
+Krysuvik-Trolladyngja,Iceland,1340 CE,63.9170,-22.0670,360,Crater rows
+Fagradalsfjall,Iceland,2023 CE,63.8950,-22.2580,250,Fissure vent
+Brennisteinsfjoll,Iceland,1341 CE,63.9330,-21.7830,610,Crater rows
+Hengill,Iceland,150 CE,64.0830,-21.4160,803,Crater rows
+Hromundartindur,Iceland,Unknown,64.0830,-21.3330,550,Stratovolcano
+Grimsnes,Iceland,3500 BCE,64.0500,-20.8830,200,Volcanic field
+Prestahnukur,Iceland,3350 BCE,64.5830,-20.6660,1385,Fissure vent(s)
+Oddnyjarhnjukur-Langjokull,Iceland,950 CE,64.8500,-19.7000,1100,Fissure vent(s)
+Hofsjokull,Iceland,Unknown,64.8330,-18.7660,1765,Fissure vent(s)
+Vestmannaeyjar,Iceland,1973 CE,63.4160,-20.2660,283,Fissure vent(s)
+Eyjafjallajokull,Iceland,2010 CE,63.6330,-19.6330,1651,Stratovolcano
+Katla,Iceland,1918 CE,63.6330,-19.0830,1490,Fissure vent(s)
+Tindfjallajokull,Iceland,Unknown,63.7830,-19.7160,1464,Stratovolcano
+Torfajokull,Iceland,1477 CE,63.8920,-19.1220,1280,Stratovolcano
+Hekla,Iceland,2000 CE,63.9830,-19.6660,1490,Stratovolcano
+Grimsvotn,Iceland,2011 CE,64.4160,-17.3160,1719,Caldera
+Thordarhyrna,Iceland,1904 CE,64.2670,-17.6170,1650,Stratovolcano
+Bardarbunga,Iceland,2015 CE,64.6330,-17.5160,2000,Stratovolcano
+Tungnafellsjokull,Iceland,Unknown,64.7500,-17.9160,1523,Stratovolcano
+Kverkfjoll,Iceland,1968 CE,64.6530,-16.6470,1930,Stratovolcano
+Askja,Iceland,1961 CE,65.0330,-16.7830,1080,Stratovolcano
+Fremrinamar,Iceland,1200 BCE,65.4160,-16.6660,970,Stratovolcano
+Krafla,Iceland,1984 CE,65.7150,-16.7280,800,Caldera
+Heidarspordar,Iceland,300 BCE,65.5830,-16.8170,490,Fissure vent
+Theistareykir,Iceland,900 BCE,65.8830,-16.9670,563,Shield
+Tjornes Fracture Zone,Iceland,1868 CE,66.3090,-17.1180,-75,Fissure vent
+Oraefajokull,Iceland,1728 CE,64.0000,-16.6500,2010,Stratovolcano
+Esjufjoll,Iceland,Unknown,64.2500,-16.5830,1620,Stratovolcano
+Snaefell,Iceland,Unknown,64.7980,-15.5600,1833,Stratovolcano
+Kolbeinsey Ridge,Iceland,1755 CE,66.6700,-18.5000,5,Fissure vent
+Jan Mayen,Norway,1985 CE,71.0820,-8.1550,2197,Stratovolcano
+East Gakkel Ridge at 85°E,Undersea Features,1999 CE,85.6080,85.2500,-3800,Fissure vent
+Pico Fracture Zone,Undersea Features,1865 CE,38.7500,-38.0800,-4200,Fissure vent
+Flores,Portugal,950 BCE,39.4620,-31.2160,914,Stratovolcano(es)
+Fayal,Portugal,1958 CE,38.5760,-28.7130,1041,Stratovolcano
+Pico,Portugal,1720 CE,38.4700,-28.4000,2351,Stratovolcano
+Sao Jorge,Portugal,1902 CE,38.6500,-28.0800,1053,Fissure vent
+Graciosa,Portugal,1950 BCE,39.0200,-27.9700,402,Stratovolcano
+Terceira,Portugal,2000 CE,38.7300,-27.3200,1023,Stratovolcano(es)
+Don Joao de Castro Bank,Portugal,1720 CE,38.2300,-26.6300,-13,Shield
+Sete Cidades,Portugal,1880 CE,37.8650,-25.7850,842,Stratovolcano
+Picos Fissural Volcanic System,Portugal,1652 CE,37.7800,-25.6700,350,Fissure vent
+Agua de Pau,Portugal,1564 CE,37.7700,-25.4700,947,Stratovolcano
+Furnas,Portugal,1630 CE,37.7700,-25.3200,805,Stratovolcano
+Monaco Bank,Portugal,1911 CE,37.6000,-25.8800,-197,Fissure vent
+Madeira,Portugal,4500 BCE,32.7300,-16.9700,1862,Shield
+La Palma,Spain,2021 CE,28.5700,-17.8300,2426,Stratovolcano(es)
+Hierro,Spain,2012 CE,27.7300,-18.0300,1500,Shield
+Tenerife,Spain,1909 CE,28.2710,-16.6410,3715,Stratovolcano
+Gran Canaria,Spain,40 CE,28.0000,-15.5800,1950,Fissure vent(s)
+Fuerteventura,Spain,Unknown,28.3580,-14.0200,529,Fissure vent(s)
+Lanzarote,Spain,1824 CE,29.0300,-13.6300,670,Fissure vent(s)
+Fogo,Cabo Verde,2015 CE,14.9500,-24.3500,2829,Stratovolcano
+Brava,Cabo Verde,Unknown,14.8514,-24.7041,956,Stratovolcano
+Romanche Fracture Zone,Undersea Features,Unknown,-0.4330,-19.5960,-1528,Fissure vent
+Ascension,United Kingdom,1508 CE,-7.9458,-14.3667,822,Stratovolcano
+Walvis Ridge at 33°S,Undersea Features,2002 CE,-32.9580,-5.2200,-1200,Cone
+Tristan da Cunha,United Kingdom,1962 CE,-37.0920,-12.2800,2060,Shield
+Nightingale Island,United Kingdom,2004 CE,-37.4200,-12.4800,365,Stratovolcano
+Bouvet,Norway,50 BCE,-54.4080,3.3510,741,Shield
+Buckle Island,Antarctica,1899 CE,-66.7800,163.2500,1239,Stratovolcano
+Young Island,Antarctica,Unknown,-66.4200,162.4700,1340,Stratovolcano
+Sturge Island,Antarctica,Unknown,-67.4000,164.8300,1167,Stratovolcano
+"Pleiades, The",Antarctica,1050 BCE,-72.6700,165.5000,3040,Stratovolcano
+Melbourne,Antarctica,1892 CE,-74.3500,164.7000,2732,Stratovolcano
+McMurdo Province at 76.8°S,Antarctica,Unknown,-76.8300,163.0000,-500,Caldera
+Morning,Antarctica,Unknown,-78.5000,163.5300,2723,Shield
+Erebus,Antarctica,2026 CE,-77.5300,167.1700,3794,Stratovolcano
+Royal Society Range,Antarctica,Unknown,-78.2500,163.3300,3000,Pyroclastic cone(s)
+Berlin,Antarctica,8350 BCE,-76.0500,-136.0000,3478,Shield(s)
+Andrus,Antarctica,Unknown,-75.8000,-132.3300,2978,Shield(s)
+Takahe,Antarctica,5550 BCE,-76.2800,-112.0800,3460,Shield
+Hudson Mountains,Antarctica,207 BCE,-74.3300,-99.4200,749,Stratovolcano(es)
+Deception Island,Antarctica,1970 CE,-62.9567,-60.6367,602,Caldera
+Penguin Island,Antarctica,1905 CE,-62.1000,-57.9300,180,Stratovolcano
+Bridgeman Island,Antarctica,Unknown,-62.0630,-56.7130,240,Stratovolcano
+Paulet,Antarctica,Unknown,-63.5790,-55.7800,353,Pyroclastic cone
+Southern Thule,United Kingdom,1975 CE,-59.4420,-27.2250,1075,Stratovolcano(es)
+Bristol Island,United Kingdom,2016 CE,-59.0170,-26.5330,1100,Stratovolcano
+Montagu Island,United Kingdom,2007 CE,-58.4450,-26.3740,1370,Shield
+Saunders,United Kingdom,2026 CE,-57.8000,-26.4830,843,Stratovolcano
+Candlemas Island,United Kingdom,1911 CE,-57.0800,-26.6700,550,Stratovolcano
+Hodson,United Kingdom,Unknown,-56.7120,-27.1760,835,Stratovolcano
+Leskov Island,United Kingdom,Unknown,-56.6560,-28.1400,190,Stratovolcano
+Zavodovski,United Kingdom,2016 CE,-56.3000,-27.5700,551,Stratovolcano
+Protector Seamounts,United Kingdom,1962 CE,-55.9120,-28.1670,-55,Volcanic field
+Mount Haddington Volcanic Field,Antarctica,Unknown,-64.1500,-57.7500,1544,Shield
+Melville,Antarctica,Unknown,-62.0200,-57.6700,549,Stratovolcano

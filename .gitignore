@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+datos/presentacion/salida/*demo*
+datos/presentacion/salida/diag.html
+datos/presentacion/salida/ver*.html

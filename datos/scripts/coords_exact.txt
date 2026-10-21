@@ -1,0 +1,89 @@
+07-22#31.7683|35.2137|Jerusalem;50.8503|4.3517|Brussels, Belgium;35.4676|-97.5164|Oklahoma City, Oklahoma, USA;48.4284|-123.3656|Victoria, British Columbia, Canada;6.2476|-75.5658|Medellín, Colombia
+07-23#49.8951|-97.1384|Winnipeg, Manitoba, Canada;-6.2088|106.8456|Jakarta, Indonesia;23.588|58.4059|Muscat, Oman;18.0111|-66.6141|Ponce, Puerto Rico, USA;-53.1638|-70.9171|Punta Arenas, Chile
+07-24#38.8816|-77.091|Arlington, Virginia, USA;35.3606|138.7274|Mount Fuji, Japan;42.6629|21.1655|Pristina, Kosovo;10.4806|-66.9036|Caracas, Venezuela;-0.1807|-78.4678|Quito, Ecuador
+07-25#44.8378|-0.5792|Bordeaux Cathedral, Bordeaux, France;36.154|-95.9928|Tulsa, Oklahoma, USA;25.5941|85.1376|Patna, Bihar, India;2.0469|45.3182|Mogadishu, Somalia;-8.839|13.2894|Luanda, Angola
+07-26#38.9072|-77.0369|Washington DC, USA;47.4245|9.3767|St Gallen, Switzerland;52.0705|4.3007|The Hague, Netherlands;41.9981|21.4254|Skopje, North Macedonia;6.3008|-10.7969|Monrovia, Liberia
+07-27#57.4778|-4.2247|Inverness, Scotland, United Kingdom;43.6532|-79.3832|Toronto, Canada;39.9334|32.8597|Ankara, Türkiye;42.5917|-88.4334|Lake Geneva, Wisconsin, USA;-20.1609|57.5012|Port Louis, Mauritius
+07-28#43.0731|-89.4012|Madison, Wisconsin, USA;52.3874|4.6462|Haarlem, Netherlands;-30.0346|-51.2177|Porto Alegre, Rio Grande do Sul, Brazil;-12.0464|-77.0428|Lima, Peru;-33.0472|-71.6127|Valparaíso, Chile
+07-29#-22.505|-43.179|Petrópolis, Rio de Janeiro, Brazil;-37.8136|144.9631|Melbourne, Victoria, Australia;19.076|72.8777|Mumbai, Maharashtra, India;17.4839|-92.046|Palenque, Chiapas, Mexico;27.5291|84.3542|Chitwan, Nepal
+07-30#39.0997|-94.5786|Kansas City, Missouri, USA;40.6995|-74.0396|Ellis Island, New York, USA;47.8095|13.055|Salzburg, Austria;33.3152|44.3661|Baghdad, Iraq;31.2304|121.4737|Shanghai, China
+07-31#17.9712|-76.7936|Kingston, Jamaica;51.1784|-115.5708|Banff, Alberta, Canada;-17.9243|25.8572|Victoria Falls, Zimbabwe;10.6549|-61.5019|Port of Spain, Trinidad and Tobago;-3.6954|128.1814|Ambon, Maluku, Indonesia
+08-01#-33.8688|151.2093|Sydney, New South Wales, Australia;47.0502|8.3093|Lucerne, Switzerland;47.4979|19.0402|Budapest, Hungary;6.3654|2.4183|Cotonou, Benin;6.8013|-58.1551|Georgetown, Guyana
+08-02#55.5969|-5.1542|Brodick Castle, Scotland, United Kingdom;47.2184|-1.5536|Nantes, France;31.2653|32.3019|Port Said, Egypt;-4.0435|39.6682|Mombasa, Kenya;50.4111|80.2275|Semipalatinsk, Kazakhstan
+08-03#35.0116|135.7681|Kyoto, Japan;32.7555|-97.3308|Fort Worth, Texas, USA;24.0277|-104.6532|Durango, Mexico;16.9742|7.9865|Agadez, Niger;15.5007|32.5599|Khartoum, Sudan
+08-04#48.8049|2.1204|Versailles, France;59.3293|18.0686|Stockholm, Sweden;53.4285|14.5528|Szczecin, Poland;43.6591|-70.2568|Portland, Maine, USA;0.3476|32.5825|Kampala, Uganda
+08-05#38.9784|-76.4922|Annapolis, Maryland, USA;-27.4698|153.0251|Brisbane, Queensland, Australia;46.5958|-112.0362|Helena, Montana, USA;-27.3665|-70.3323|Copiapó, Atacama, Chile;53.0195|158.65|Petropavlovsk-Kamchatsky, Kamchatka, Russia
+08-06#34.0928|-118.3287|Hollywood, California, USA;34.6937|135.5023|Osaka, Japan;51.06|1.4|Dover Strait, England;30.5085|47.7804|Basra, Iraq;4.5975|101.0901|Ipoh, Perak, Malaysia
+08-07#41.4901|-71.3128|Newport, Rhode Island, USA;39.4699|-0.3763|Valencia, Spain;36.4349|28.2176|Rhodes, Greece;31.5966|130.5571|Kagoshima, Japan;6.8276|-5.2893|Yamoussoukro, Cote d'Ivoire
+08-08#38.9072|-77.0369|Washington DC, USA;42.3251|-72.6412|Northampton, Massachusetts, USA;34.6786|33.0413|Limassol, Cyprus;47.8864|106.9057|Ulaanbaatar, Mongolia;-22.5609|17.0832|Windhoek, Namibia
+08-09#42.6526|-73.7562|Albany, New York, USA;37.9838|23.7275|Athens, Greece;1.3521|103.8198|Singapore;13.7563|100.5018|Bangkok, Thailand;-24.6282|25.9231|Gaborone, Botswana
+08-10#33.8366|-117.9143|Anaheim, California, USA;-0.1807|-78.4678|Quito, Ecuador;8.5241|76.9366|Thiruvananthapuram, Kerala, India;-2.6527|37.2606|Amboseli, Kenya;17.1175|-61.8456|St John's, Antigua and Barbuda
+08-11#38.627|-90.1994|St Louis, Missouri, USA;33.5904|130.4017|Fukuoka, Japan;56.9496|24.1052|Riga, Latvia;12.1348|15.0557|N'Djamena, Chad;10.7202|122.5621|Iloilo City, Philippines
+08-12#48.8566|2.3522|Paris, France;41.0793|-85.1394|Fort Wayne, Indiana, USA;-29.8587|31.0218|Durban, South Africa;9.0765|7.3986|Abuja, Nigeria;42.2679|42.6946|Kutaisi, Georgia
+08-13#41.7658|-72.6734|Hartford, Connecticut, USA;19.4326|-99.1332|Mexico City, Mexico;36.8065|10.1815|Tunis, Tunisia;21.5041|-104.8942|Tepic, Nayarit, Mexico;4.3947|18.5582|Bangui, Central African Republic
+08-14#-33.9249|18.4241|Cape Town, South Africa;31.7129|-110.0675|Tombstone, Arizona, USA;19.758|-72.2042|Cap-Haïtien, Haiti;24.8607|67.0011|Karachi, Pakistan;13.4757|144.7489|Hagåtña, Guam, USA
+08-15#50.0755|14.4378|Prague, Czechia;35.1796|129.0756|Busan, South Korea;7.2906|80.6337|Kandy, Sri Lanka;42.0396|9.0129|Corsica, France;47.1416|9.5215|Vaduz, Liechtenstein
+08-16#34.0195|-118.4912|Santa Monica, California, USA;35.1856|33.3823|Nicosia, Cyprus;52.4227|10.7865|Wolfsburg, Germany;19.7808|-70.6871|Puerto Plata, Dominican Republic;44.7866|20.4489|Belgrade, Serbia
+08-17#50.8503|2.8858|Ypres, Belgium;40.6782|-73.9442|Brooklyn, New York, USA;24.7955|85.0002|Gaya, Bihar, India;45.9646|63.3052|Baikonur, Kazakhstan;0.4162|9.4673|Libreville, Gabon
+08-18#40.3573|-74.6672|Princeton, New Jersey, USA;16.3067|80.4365|Guntur, Andhra Pradesh, India;64.8378|-147.7164|Fairbanks, Alaska, USA;47.1917|102.8497|Karakorum, Mongolia;39.627|66.975|Samarkand, Uzbekistan
+08-19#41.3874|2.1686|Barcelona, Spain;39.7589|-84.1916|Dayton, Ohio, USA;34.5553|69.2075|Kabul, Afghanistan;46.0878|-64.7782|Moncton, New Brunswick, Canada;43.1155|131.8855|Vladivostok, Primorsky Krai, Russia
+08-20#33.5731|-7.5898|Casablanca, Morocco;59.437|24.7536|Tallinn, Estonia;17.385|78.4867|Hyderabad, Telangana, India;-25.2637|-57.5759|Asunción, Paraguay;14.6928|-17.4467|Dakar, Senegal
+08-21#43.7696|11.2558|Florence, Italy;56.9496|24.1052|Riga, Latvia;49.6117|6.1319|Luxembourg;0.5143|35.2698|Eldoret, Kenya;3.848|11.5021|Yaoundé, Cameroon
+08-22#57.4778|-4.2247|Inverness, Scotland, United Kingdom;43.3619|-5.8494|Oviedo, Asturias, Spain;31.2304|121.4737|Shanghai, China;59.9139|10.7522|Oslo, Norway;41.2995|69.2401|Tashkent, Uzbekistan
+08-23#64.2559|-21.1292|Thingvellir, Iceland;32.8407|-83.6324|Macon, Georgia, USA;12.9716|77.5946|Bengaluru, Karnataka, India;44.3683|-100.351|Pierre, South Dakota, USA;13.5128|2.1128|Niamey, Niger
+08-24#21.3069|-157.8583|Honolulu, Hawaii, USA;53.4084|-2.9916|Liverpool, England, United Kingdom;50.4501|30.5234|Kyiv, Ukraine;-1.6792|29.2228|Goma, Democratic Republic of Congo;-34.9011|-56.1645|Montevideo, Uruguay
+08-25#-35.2809|149.13|Canberra, Australia;36.4388|-118.9045|Three Rivers, California, Sequoia National Park, USA;60.1695|24.9354|Helsinki, Finland;34.0449|-6.814|Salé, Morocco;-34.1014|-56.2148|Florida, Uruguay
+08-26#53.8008|-1.5491|Leeds, England, United Kingdom;39.4194|-0.7906|Buñol, Spain;38.3498|-81.6326|Charleston, West Virginia, USA;53.1167|23.1667|Białystok, Poland;4.9224|-52.3135|Cayenne, French Guiana
+08-27#35.6892|51.389|Tehran, Iran;46.0038|-112.5348|Butte, Montana, USA;53.5461|-113.4938|Edmonton, Alberta, Canada;47.0105|28.8638|Chișinău, Moldova;30.2741|120.1551|Hangzhou, Zhejiang Province, China
+08-28#35.6762|139.6503|Tokyo, Japan;43.6108|3.8767|Montpellier, France;21.3891|39.8579|Mecca, Saudi Arabia;24.4686|39.6142|Medina, Saudi Arabia;36.8528|10.3233|Carthage, Tunisia
+08-29#48.7758|9.1829|Stuttgart, Germany;39.2904|-76.6122|Baltimore, Maryland, USA;4.95|8.325|Calabar, Cross River State, Nigeria;32.0603|118.7969|Nanjing, Jiangsu Province, China;-25.2897|152.8543|Hervey Bay, Queensland, Australia
+08-30#-36.8485|174.7633|Auckland, New Zealand;27.9506|-82.4572|Tampa, Florida, USA;43.6047|1.4442|Toulouse, France;45.7833|-108.5007|Billings, Montana, USA;20.9101|70.3653|Veraval, Gujarat, India
+08-31#38.7223|-9.1393|Lisbon, Portugal;41.9028|12.4964|Rome, Italy;25.033|121.5654|Taipei, Taiwan;50.6196|26.2513|Rivne, Ukraine;42.8746|74.6037|Bishkek, Kyrgyzstan
+09-01#31.3439|34.3025|Khan Younis, Gaza, Palestine;42.3601|-71.0589|Boston, Massachusetts, USA;-4.4419|15.2663|Kinshasa, Democratic Republic of the Congo;29.2942|117.2036|Jingdezhen, Jiangxi, China;41.7269|-49.948|the location where the Titanic sank
+09-02#51.5074|-0.1278|London, England, UK;57.7089|11.9746|Gothenburg, Sweden;26.2122|127.6792|Naha, Okinawa, Japan;9.0222|38.7469|Addis Ababa, Ethiopia;43.8256|87.6168|Urumqi, Xinjiang, China
+09-03#56.4691|-2.9749|Dundee, Scotland, United Kingdom;50.7671|15.0562|Liberec, Czechia;43.9367|12.4464|San Marino City, San Marino;-33.036|-71.6296|Valparaíso, Chile;25.2855|51.531|Doha, Qatar
+09-04#35.2646|139.1522|Odawara, Japan;50.4452|-104.6189|Regina, Saskatchewan, Canada;14.6042|-61.0667|Fort-de-France, Martinique, French Overseas Territory;26.1445|91.7362|Guwahati, Assam, India;53.2144|63.6246|Kostanay, Kazakhstan
+09-05#42.3314|-83.0458|Detroit, Michigan, USA;24.1477|120.6736|Taichung, Taiwan;24.8607|67.0011|Karachi, Pakistan;32.6708|51.665|Isfahan, Iran;-15.7863|35.0036|Blantyre, Malawi
+09-06#45.4642|9.19|Milan, Italy;37.5665|126.978|Seoul, South Korea;41.8781|-87.6298|Chicago, Illinois, USA;-34.6037|-58.3816|Buenos Aires, Argentina;-26.3054|31.1367|Mbabane, Eswatini
+09-07#21.3069|-157.8583|Honolulu, Hawaii, USA;-23.5505|-46.6333|São Paulo, Brazil;14.1389|-16.0764|Kaolack, Senegal;43.1155|131.8855|Vladivostok, Primorsky Krai, Russia;61.6681|50.8372|Syktyvkar, Komi Republic, Russia
+09-08#41.1579|-8.6291|Porto, Portugal;34.7376|135.3416|Nishinomiya, Japan;35.8714|128.6014|Daegu, South Korea;50.4553|18.5253|Toszek, Poland;9.56|44.065|Hargeisa, Somalia
+09-09#47.5596|7.5886|Basel, Switzerland;39.0392|125.7625|Pyongyang, North Korea;30.5085|47.7804|Basra, Iraq;9.9763|-84.8384|Puntarenas, Costa Rica;42.0526|-124.284|Brookings, Oregon, USA
+09-10#53.7676|-0.3274|Kingston upon Hull, England, UK;36.0641|136.2196|Fukui, Japan;36.1408|-5.3536|Gibraltar, United Kingdom;26.8721|100.2299|Lijiang, Yunnan, China;27.041|88.2663|Darjeeling, West Bengal, India
+09-11#40.0172|-78.9058|Shanksville, Pennsylvania, USA;10.4603|-73.2597|Valledupar, Colombia;48.9569|-54.6089|Gander, Newfoundland, Canada;41.3281|19.8184|Tirana, Albania;14.1671|38.8912|Adwa, Tigray, Ethiopia
+09-12#36.2605|59.6168|Mashhad, Iran;38.1938|15.554|Messina, Sicily, Italy;42.0987|-75.918|Binghamton, New York, USA;-18.1554|49.4098|Toamasina, Madagascar;-27.5954|-48.548|Florianópolis, Santa Catarina, Brazil
+09-13#39.7684|-86.1581|Indianapolis, Indiana, USA;52.4064|16.9252|Poznań, Poland;49.4444|32.0598|Cherkasy, Ukraine;14.903|-92.262|Tapachula, Chiapas, Mexico;-6.163|35.7516|Dodoma, Tanzania
+09-14#52.2297|21.0122|Warsaw, Poland;-41.2866|174.7756|Wellington, New Zealand;36.6002|-121.8947|Monterey, California, USA;10.2469|-67.5958|Maracay, Venezuela;-1.6635|-78.6547|Riobamba, Ecuador
+09-15#46.2018|6.1466|Geneva, Switzerland;36.1623|-86.7744|Nashville, Tennessee, USA;14.6417|-90.5133|Guatemala City, Guatemala;6.4497|7.5137|Enugu, Nigeria;34.4342|70.4478|Jalalabad, Afghanistan
+09-16#51.5136|7.4653|Dortmund, Germany;45.5017|-73.5673|Montreal, Quebec, Canada;-34.5662|-59.1153|Luján, Buenos Aires Province, Argentina;-9.4438|147.1803|Port Moresby, Papua New Guinea;40.1792|44.4991|Yerevan, Armenia
+09-17#52.52|13.405|Berlin, Germany;52.0116|4.3571|Delft, Netherlands;39.3643|-74.4229|Atlantic City, New Jersey, USA;-31.9523|115.8613|Perth, Western Australia, Australia;40.4093|49.8671|Baku, Azerbaijan
+09-18#49.1664|-123.94|Nanaimo, Vancouver Island, British Columbia, Canada;-33.4489|-70.6693|Santiago, Chile;33.5186|-86.8104|Birmingham, Alabama, USA;22.4729|70.0667|Jamnagar, Gujarat, India;-19.8436|34.8389|Beira, Mozambique
+09-19#35.6762|139.6503|Tokyo, Japan;36.9914|35.3308|Adana, Türkiye;-43.5321|172.6362|Christchurch, New Zealand;29.652|91.1721|Lhasa, Tibet, China;23.1291|113.2644|Guangzhou, Guangdong, China
+09-20#46.4825|30.7233|Odessa, Ukraine;-37.1525|-58.4883|Ayacucho, Buenos Aires Province, Argentina;-19.5836|-65.7531|Potosí, Bolivia;-27.5598|151.9507|Toowoomba, Queensland, Australia;-53.1638|-70.9171|Punta Arenas, Chile
+09-21#51.1789|-1.8262|Stonehenge, United Kingdom;39.9183|127.5361|Hamhung, North Korea;6.6885|-1.6244|Kumasi, Ghana;35.8989|14.5146|Valletta, Malta;-41.8697|-73.8203|Ancud, Chiloé, Chile
+09-22#51.5074|-0.1278|London, England, United Kingdom;4.711|-74.0721|Bogotá, Colombia;41.9779|-91.6656|Cedar Rapids, Iowa, USA;12.2388|109.1967|Nha Trang, Vietnam;31.6289|65.7372|Kandahar, Afghanistan
+09-23#45.6495|13.7768|Trieste, Italy;34.0007|-81.0348|Columbia, South Carolina, USA;32.0836|23.9764|Tobruk, Libya;26.8467|80.9462|Lucknow, Uttar Pradesh, India;-8.6705|115.2126|Denpasar, Bali, Indonesia
+09-24#39.9526|-75.1652|Philadelphia, Pennsylvania, USA;-38.7196|-62.2724|Bahía Blanca, Buenos Aires Province, Argentina;-8.5069|115.2625|Ubud, Bali, Indonesia;11.8636|-15.5977|Bissau, Guinea-Bissau;55.1644|61.4368|Chelyabinsk, Chelyabinsk Oblast, Russia
+09-25#8.9824|-79.5199|Panama City, Panama;-33.8688|151.2093|Sydney, New South Wales, Australia;38.914|121.6147|Dalian, Liaoning, China;9.9281|-84.0907|San José, Costa Rica;-42.7692|-65.0385|Puerto Madryn, Chubut, Argentina
+09-26#-33.9249|18.4241|Cape Town, South Africa;40.6403|22.9439|Thessaloniki, Greece;33.769|-118.1916|Long Beach, California, USA;45.92|63.3422|Baikonur, Kazakhstan;43.1306|-80.7467|Woodstock, Ontario, Canada
+09-27#55.6761|12.5683|Copenhagen, Denmark;-18.9135|44.7944|Tsingy de Bemaraha, Madagascar;7.957|80.7603|Sigiriya, Sri Lanka;38.3736|34.7351|Derinkuyu Underground City, Türkiye;-20.2043|-67.515|Salar de Uyuni, Bolivia
+09-28#27.9881|86.925|Mount Everest, Nepal;22.5726|88.3639|Kolkata, West Bengal, India;41.6916|-0.9101|Zaragoza, Spain;65.0118|25.4702|Oulu, Finland;-10.1632|123.6018|Kupang, East Nusa Tenggara, Indonesia
+09-29#28.6139|77.209|New Delhi, Delhi, India;33.4484|-112.074|Phoenix, Arizona, USA;-17.42|-66.27|Cotapachi, Bolivia;12.0022|8.592|Kano, Nigeria;-19.9167|-43.9345|Belo Horizonte, Minas Gerais, Brazil
+09-30#47.4979|19.0402|Budapest, Hungary;44.5133|-88.0133|Green Bay, Wisconsin, USA;53.0685|-4.0763|Snowdon, Wales, UK;-24.6282|25.9231|Gaborone, Botswana;-2.4431|-54.7083|Santarém, Pará, Brazil
+10-01#31.5966|130.5571|Kagoshima, Japan;49.1829|-0.3707|Caen, France;39.2238|9.1217|Cagliari, Sardinia, Italy;4.8594|31.5713|Juba, South Sudan;-25.5097|-54.6111|Ciudad del Este, Paraguay
+10-02#54.5973|-5.9301|Belfast, Northern Ireland, United Kingdom;31.6295|-7.9811|Marrakech, Morocco;29.6516|-82.3248|Gainesville, Florida, USA;46.253|20.1414|Szeged, Hungary;27.7172|85.324|Kathmandu, Nepal
+10-03#43.6532|-79.3832|Toronto, Ontario, Canada;48.4284|-123.3656|Victoria, British Columbia, Canada;42.2917|-85.5872|Kalamazoo, Michigan, USA;52.1601|4.497|Leiden, Netherlands;19.706|-101.195|Morelia, Michoacán, Mexico
+10-04#49.8356|18.2925|Ostrava, Czech Republic;16.9833|73.3|Ratnagiri, Maharashtra, India;-17.7863|-63.1812|Santa Cruz de la Sierra, Bolivia;-29.3503|27.6713|Thaba Bosiu, Lesotho;-21.1333|-175.2|Nuku'alofa, Tongatapu, Tonga
+10-05#32.0853|34.7818|Tel Aviv, Israel;24.5602|120.8214|Miaoli City, Taiwan;47.322|5.0415|Dijon, France;37.8913|-85.9653|Fort Knox, Kentucky, USA;-2.5083|28.8608|Bukavu, Democratic Republic of the Congo
+10-06#49.4521|11.0767|Nuremberg, Germany;59.0537|10.0257|Larvik, Norway;10.6427|-71.6125|Maracaibo, Venezuela;30.6954|-88.0399|Mobile, Alabama, USA;-8.3791|-74.5539|Pucallpa, Peru
+10-07#48.8566|2.3522|Paris, France;-37.787|175.2793|Hamilton, New Zealand;32.2226|-110.9747|Tucson, Arizona, USA;-36.827|-73.0503|Concepción, Chile;50.4111|80.2275|Semey, Kazakhstan
+10-08#-33.8688|151.2093|Sydney, New South Wales, Australia;63.4305|10.3951|Trondheim, Norway;-32.9283|151.7817|Newcastle, New South Wales, Australia;-5.1486|119.4319|Makassar, Sulawesi, Indonesia;42.2249|-121.7817|Klamath Falls, Oregon, USA
+10-09#47.3769|8.5417|Zurich, Switzerland;-29.1167|26.2167|Bloemfontein, South Africa;35.0844|-106.6504|Albuquerque, New Mexico, USA;-22.5609|17.0658|Windhoek, Namibia;14.0354|-0.0345|Dori, Burkina Faso
+10-10#51.162|4.99|Geel, Belgium;-16.4897|-68.1193|La Paz, Bolivia;5.6037|-0.187|Accra, Ghana;38.079|138.439|Ryotsu, Sado Island, Japan;9.8965|8.8583|Jos, Nigeria
+10-11#54.352|18.6466|Gdańsk, Poland;16.4637|107.5909|Huế, Vietnam;-17.3895|-66.1568|Cochabamba, Bolivia;-9.5773|160.145|Guadalcanal, Solomon Islands;42.8303|-98.3295|Monowi, Nebraska, USA
+10-12#37.7749|-122.4194|San Francisco, California, USA;45.0703|7.6869|Turin, Italy;32.5364|44.42|Babylon, Iraq;46.2358|15.2675|Celje, Slovenia;1.5917|10.8222|Ciudad de la Paz, Equatorial Guinea
+10-13#22.9997|120.227|Tainan, Taiwan;31.5204|74.3587|Lahore, Pakistan;34.226|135.1675|Wakayama, Japan;32.3806|-64.6781|St George's, Bermuda;4.0511|9.7679|Douala, Cameroon
+10-14#48.2082|16.3738|Vienna, Austria;64.1466|-21.9426|Reykjavík, Iceland;23.1291|113.2644|Guangzhou, Guangdong, China;27.1751|78.0421|Agra, India;-22.505|-43.1789|Petrópolis, Rio de Janeiro, Brazil
+10-15#30.0444|31.2357|Cairo, Egypt;37.2746|9.8739|Bizerte, Tunisia;40.7608|-111.891|Salt Lake City, Utah, USA;19.7594|-72.1981|Cap-Haïtien, Haiti;-61.1333|-55.1167|Elephant Island, Antarctica
+10-16#21.3069|-157.8583|Honolulu, Hawaii, USA;50.0647|19.945|Kraków, Poland;32.7503|129.8779|Nagasaki, Japan;66.5039|25.7294|Rovaniemi, Finland;17.385|78.4867|Hyderabad, Telangana, India
+10-17#52.2297|21.0122|Warsaw, Poland;-22.9068|-43.1729|Rio de Janeiro, Brazil;29.7604|-95.3698|Houston, Texas, USA;60.4518|22.2666|Turku, Finland;34.3416|108.9398|Xi'an, Shaanxi, China
+10-18#54.9783|-1.6178|Newcastle upon Tyne, England, United Kingdom;18.5944|-72.3074|Port-au-Prince, Haiti;-37.8136|144.9631|Melbourne, Victoria, Australia;33.5597|133.5311|Kōchi, Japan;16.4023|120.596|Baguio, Philippines
