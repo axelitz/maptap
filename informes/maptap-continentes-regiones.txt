@@ -1,2 +1,0 @@
-Continentes: Asia, Europa, América del Norte, África, América del Sur, Oceanía, Centroamérica, Antártida
-Regiones: Asia Oriental, Asia del Sur, Medio Oriente, Sudeste Asiático, Asia Central y Cáucaso, Europa Occidental, Europa del Sur, Balcanes, Nórdicos y Bálticos, Europa del Este, América del Norte, África Occidental, África Austral, África Oriental, África Central, África del Norte, América del Sur, Australia y Nueva Zelanda, Islas menores de Oceanía, Caribe, Centroamérica, Antártida
